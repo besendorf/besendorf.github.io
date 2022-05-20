@@ -3,7 +3,7 @@ title: "Für einen studentischen Vizepräsidenten!"
 date: 2022-05-16T21:34:46+02:00
 draft: false
 ---
-
+*Verfasst und zuerst veröffentlicht von der [FSI Geschichte](https://fsigeschichtefu.de/2125/fuer-einen-studentischen-vizepraesidenten/)*
 
 Als Unterzeichner\*innen finden wir, dass Zeit für eine\*n nicht-professorale\*n Vizepräsident\*in an der FU ist!
 
@@ -80,6 +80,8 @@ Impfstoffen)
 ## Fachschaftsinitiativen
 - FSI Geschichte
 - FSI\*OSI
+- FSI Biologie
+- FSI Informatik
 ## Akademsicher Senat
 - FSI/Offene Liste
 - Grüne Alternative Liste
