@@ -76,7 +76,7 @@ Impfstoffen)
 # Unterzeichner\*innen
 ## Studierendenschaft
 - Studierendenparlament FU Berlin
-- AStA FU
+- [AStA FU](https://astafu.de)
 ## Fachschaftsinitiativen
 - FSI Geschichte
 - FSI\*OSI
