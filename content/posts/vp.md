@@ -32,7 +32,7 @@ Wir fordern, dass diese Entscheidungen in Zukunft in einem Dialog aller Statusgr
 <br/><br/>
 In diesem Sinne fordern wir alle Mitglieder des erweiterten Akademischen Senates dazu auf, Janik
 Besendorf in seiner Kandidatur als Vizepräsident zu unterstützen. Wir unterstützen zudem die Umsetzung seines Programms:
-<b>
+
 - Weiterentwicklung und Umsetzung des Konzepts „Studium und Lehre 2030“
 
 - Koordination von Präsenz sowie Online-/Hybridlehre, statt einer Rückkehr zum Status-Quo von vor der Pandemie
@@ -47,11 +47,11 @@ Besendorf in seiner Kandidatur als Vizepräsident zu unterstützen. Wir unterst�
 
 - Schaffung einer unabhängigen Beschwerdestelle für Betroffene von Diskriminierung
 
-</b>
+
 
 Darüber hinaus und unabhängig davon, wie das neugewählte Präsidium zusammengesetzt sein wird,
 fordern wir:
-<b>
+
 - Anpassung der Kapazitätsregelungen und Ausfinanzierung der Lehre
 - Sicherheit für sogenannte „kleine“ Fächer. Auch Fächer mit geringen Studierendenzahlen
 haben einen Platz an der Universität, selbst wenn sie in den Statistiken nicht so gut aussehen!
@@ -71,22 +71,24 @@ Forschungsergebnissen (z.B. in der Medizintechnik oder bei der Entwicklung von
 Impfstoffen)
 - Wiedereingliederung aller outgesourcten Bereiche der Freien Universität
 - Faire Entlohnung für alle Beschäftigten der Freien Universität (das bedeutet auch, dass der „Corona-Bonus“ an die Beschäftigten aller Statusgruppen ausgezahlt werden muss!)
-</b>
+
 
 # Unterzeichner\*innen
 ## Studierendenschaft
-- Studierendenparlament FU Berlin
+- [Studierendenparlament FU Berlin](https://astafu.de/stupa)
 - [AStA FU](https://astafu.de)
 ## Fachschaftsinitiativen
-- FSI Geschichte
-- FSI\*OSI
-- FSI Biologie
-- FSI Informatik
+- [FSI Geschichte](https://fsigeschichtefu.de)
+- [FSI\*OSI](https://userblogs.fu-berlin.de/fsi_osi/)
+- [FSI Biologie](https://www.bcp.fu-berlin.de/studium-lehre/verwaltung/fachschaften/fachschaftsinitiative-biologie/index.html)
+- [FSI Informatik](https://fsi.spline.de)
 ## Akademsicher Senat
 - FSI/Offene Liste
 - Grüne Alternative Liste
 - Jusos/GHG
 - ONCE
+## Hochschulgruppen
+- [la:iz](https://www.instagram.com/p/Cc8k4ersBcp/)
 
 
 
