@@ -82,7 +82,7 @@ Impfstoffen)
 - [FSI\*OSI](https://userblogs.fu-berlin.de/fsi_osi/)
 - [FSI Biologie](https://www.bcp.fu-berlin.de/studium-lehre/verwaltung/fachschaften/fachschaftsinitiative-biologie/index.html)
 - [FSI Informatik](https://fsi.spline.de)
-## Akademsicher Senat
+## Akademischer Senat
 - FSI/Offene Liste
 - Grüne Alternative Liste
 - Jusos/GHG
