@@ -60,10 +60,11 @@ languageName = "Deutsch"
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
-  gitRepo = ""
+  gitRepo = "https://github.com/besendorf/besendorf.org"
+  enableGitInfo = true
   #  which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
-  fingerprint = ""
+  fingerprint = "sha512"
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
