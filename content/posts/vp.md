@@ -78,6 +78,7 @@ Impfstoffen)
 - [Studierendenparlament FU Berlin](https://astafu.de/stupa)
 - [AStA FU](https://astafu.de)
 ## Fachschaftsinitiativen
+- Ini-Vernetzung der FU (Treffen aller FSIen)
 - [FSI Geschichte](https://fsigeschichtefu.de)
 - [FSI\*OSI](https://userblogs.fu-berlin.de/fsi_osi/)
 - [FSI Biologie](https://www.bcp.fu-berlin.de/studium-lehre/verwaltung/fachschaften/fachschaftsinitiative-biologie/index.html)
