@@ -1,6 +1,7 @@
 [submodule "use_loveit_with_fork_awesome"]
 	path = use_loveit_with_fork_awesome
 	url = https://codeberg.org/tytan652/use_loveit_with_fork_awesome
+	branch = main
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
 	url = https://github.com/besendorf/LoveIt
