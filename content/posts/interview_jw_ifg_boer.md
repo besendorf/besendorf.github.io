@@ -1,6 +1,6 @@
 ---
 title: "Interview in der jungen Welt zur IFG Anfrage zur Beauftragung einer Personalagentur an der FU Berlin durch Andrea Bör"
-date: 2022-08-09T21:34:46+02:00
+date: 2022-08-09T20:54:07+02:00
 draft: false
 ---
 
