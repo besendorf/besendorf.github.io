@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 defaultContentLanguage: de
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 languages:
   de:
     contentDir: content
