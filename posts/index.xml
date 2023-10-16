@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Janik Besendorf</title>
-    <link>/de/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Janik Besendorf</description>
     <image>
       <title>Janik Besendorf</title>
@@ -11,32 +11,32 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 22 Jan 2023 17:14:32 +0100</lastBuildDate><atom:link href="/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 17:14:32 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutzvorfall an der FU Berlin durch Fehlkonfiguration des Videostreamingdienstes vBrick</title>
-      <link>/de/posts/vbrick/</link>
+      <link>/posts/vbrick/</link>
       <pubDate>Sun, 22 Jan 2023 17:14:32 +0100</pubDate>
       
-      <guid>/de/posts/vbrick/</guid>
+      <guid>/posts/vbrick/</guid>
       <description>Nachdem mich Ende letzten Jahres ein*e Kommiliton*in auf eine Sicherheitslücke/einen Datenschutzvorfall bei vbrick an der FU Berlin hingewiesen hat, habe ich diesen an die zuständigen Stellen gemeldet. Mittlerweile wurde der Fehler behoben und die Betroffenen benachrichtigt. Hier ein kurzer Einblick, wie das ablief.
 Was ist passiert? Die FU Berlin setzt seit 2021 die Videostreamingplattform &amp;ldquo;vbrick Rev&amp;rdquo; des US-Unternehmens vbrick Systems ein. Auf der Plattform finden sich hauptsächlich Aufzeichnungen von Vorlesungen und andere Lehrvideos.</description>
     </item>
     
     <item>
       <title>Interview in der jungen Welt zur IFG Anfrage zur Beauftragung einer Personalagentur an der FU Berlin durch Andrea Bör</title>
-      <link>/de/posts/interview_jw_ifg_boer/</link>
+      <link>/posts/interview_jw_ifg_boer/</link>
       <pubDate>Tue, 09 Aug 2022 20:54:07 +0200</pubDate>
       
-      <guid>/de/posts/interview_jw_ifg_boer/</guid>
+      <guid>/posts/interview_jw_ifg_boer/</guid>
       <description>Am 09.08.2022 (10.08.2022 in der Print Ausgabe) veröffentliche die junge Welt ein Interview mit mir zur Beauftragung einer Personalagentur im Rahmen der Präsident*innenwahlen an der FU durch die Kanzlerin Andrea Bör und den Dokumenten, die ich im Rahmen einer IFG Anfrage erhalten hatte. Zur Transparenz veröffentliche ich hier das unbearbearbeitete und ungekürzte Interview. Es sei besonders darauf hingewiesen, dass ich in meinen Antworten mit &amp;ldquo;*&amp;rdquo; gegendert habe und die junge Welt, dass trotz explizitem Wunsch zu generischem Maskulinum geändert hat.</description>
     </item>
     
     <item>
       <title>Für einen studentischen Vizepräsidenten!</title>
-      <link>/de/posts/vp/</link>
+      <link>/posts/vp/</link>
       <pubDate>Mon, 16 May 2022 21:34:46 +0200</pubDate>
       
-      <guid>/de/posts/vp/</guid>
+      <guid>/posts/vp/</guid>
       <description>Verfasst und zuerst veröffentlicht von der FSI Geschichte
 Als Unterzeichner*innen finden wir, dass Zeit für eine*n nicht-professorale*n Vizepräsident*in an der FU ist!
 Andere Universitäten sind uns in dieser Frage schon voraus. So gibt es bereits an der ZU Friedrichshafen und perspektivisch auch an der UdK studentische VPs. Nun gilt die FU bundesweit als Ort des studentischen Protests und Beispiel für eine besonders kritische und politische Opposition im AS und darüber hinaus.</description>

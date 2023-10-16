@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/de/work/</loc>
+    <loc>/work/</loc>
     <lastmod>2023-10-16T14:17:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,13 +12,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/de/work/"
+                href="/work/"
                 />
   </url><url>
-    <loc>/de/posts/vbrick/</loc>
+    <loc>/posts/vbrick/</loc>
     <lastmod>2023-01-22T17:14:32+01:00</lastmod>
   </url><url>
-    <loc>/de/</loc>
+    <loc>/</loc>
     <lastmod>2023-01-22T17:14:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,19 +28,19 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/de/"
+                href="/"
                 />
   </url><url>
-    <loc>/de/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-01-22T17:14:32+01:00</lastmod>
   </url><url>
-    <loc>/de/posts/interview_jw_ifg_boer/</loc>
+    <loc>/posts/interview_jw_ifg_boer/</loc>
     <lastmod>2022-08-09T20:54:07+02:00</lastmod>
   </url><url>
-    <loc>/de/posts/vp/</loc>
+    <loc>/posts/vp/</loc>
     <lastmod>2022-05-16T21:34:46+02:00</lastmod>
   </url><url>
-    <loc>/de/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -49,12 +49,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/de/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>/de/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>/de/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -63,7 +63,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/de/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>
