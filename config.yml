@@ -16,14 +16,12 @@ defaultContentLanguage: de
 defaultContentLanguageInSubdir: false
 languages:
   de:
-    contentDir: content
     disabled: false
     languageCode: de-DE
     languageDirection: ltr
     languageName: Deutsch
     weight: 1
   en:
-    contentDir: content
     disabled: false
     languageCode: en-US
     languageDirection: ltr
