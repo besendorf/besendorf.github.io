@@ -157,3 +157,14 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+module:
+  mounts:
+    - source: content/en
+      target: content
+      lang: en
+    - source: content
+      target: content
+      lang: de
+    - source: content
+      target: content
+      lang: en
