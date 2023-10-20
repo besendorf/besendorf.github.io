@@ -1,4 +1,4 @@
-baiseURL: "https://besendorf.org"
+baseURL: "https://besendorf.org"
 title: Janik Besendorf
 paginate: 5
 theme: WonderMod
