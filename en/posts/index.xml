@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Janik Besendorf</title>
-    <link>https://besendorf.org/en/</link>
-    <description>Recent content on Janik Besendorf</description>
+    <title>Posts on Janik Besendorf</title>
+    <link>https://besendorf.org/en/posts/</link>
+    <description>Recent content in Posts on Janik Besendorf</description>
     <image>
       <title>Janik Besendorf</title>
       <url>https://besendorf.org/images/avatar.jpg</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Jan 2023 17:14:32 +0100</lastBuildDate><atom:link href="https://besendorf.org/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Work</title>
-      <link>https://besendorf.org/en/work/</link>
-      <pubDate>Mon, 16 Oct 2023 14:17:49 +0200</pubDate>
-      
-      <guid>https://besendorf.org/en/work/</guid>
-      <description>About me Since almost 10 years I learn about and work in IT security. I study computer science with a focus on IT security and currently work in the Digital Security Lab at Reporters without Borders. For me it&amp;rsquo;s always a joyful activity when sharing my knowledge with others. For example during crypto partyies or in security workshops with activists and journalists. Besides my job at Reporters without Borders I work as a freelance IT security trainer.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 22 Jan 2023 17:14:32 +0100</lastBuildDate><atom:link href="https://besendorf.org/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutzvorfall an der FU Berlin durch Fehlkonfiguration des Videostreamingdienstes vBrick</title>
       <link>https://besendorf.org/en/posts/vbrick/</link>
@@ -50,7 +41,6 @@ Was ist passiert? Die FU Berlin setzt seit 2021 die Videostreamingplattform &amp
 Als Unterzeichner*innen finden wir, dass Zeit für eine*n nicht-professorale*n Vizepräsident*in an der FU ist!
 Andere Universitäten sind uns in dieser Frage schon voraus. So gibt es bereits an der ZU Friedrichshafen und perspektivisch auch an der UdK studentische VPs. Nun gilt die FU bundesweit als Ort des studentischen Protests und Beispiel für eine besonders kritische und politische Opposition im AS und darüber hinaus.</description>
     </item>
-    
     
   </channel>
 </rss>

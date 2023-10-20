@@ -15,6 +15,71 @@
                 href="https://besendorf.org/en/work/"
                 />
   </url><url>
+    <loc>https://besendorf.org/en/posts/vbrick/</loc>
+    <lastmod>2023-01-22T17:14:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/posts/vbrick/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/posts/vbrick/"
+                />
+  </url><url>
+    <loc>https://besendorf.org/en/</loc>
+    <lastmod>2023-01-22T17:14:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/"
+                />
+  </url><url>
+    <loc>https://besendorf.org/en/posts/</loc>
+    <lastmod>2023-01-22T17:14:32+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/posts/"
+                />
+  </url><url>
+    <loc>https://besendorf.org/en/posts/interview_jw_ifg_boer/</loc>
+    <lastmod>2022-08-09T20:54:07+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/posts/interview_jw_ifg_boer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/posts/interview_jw_ifg_boer/"
+                />
+  </url><url>
+    <loc>https://besendorf.org/en/posts/vp/</loc>
+    <lastmod>2022-05-16T21:34:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/posts/vp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/posts/vp/"
+                />
+  </url><url>
     <loc>https://besendorf.org/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,16 +92,16 @@
                 href="https://besendorf.org/en/categories/"
                 />
   </url><url>
-    <loc>https://besendorf.org/en/</loc>
+    <loc>https://besendorf.org/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://besendorf.org/"
+                href="https://besendorf.org/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://besendorf.org/en/"
+                href="https://besendorf.org/en/search/"
                 />
   </url><url>
     <loc>https://besendorf.org/en/tags/</loc>
