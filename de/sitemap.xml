@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/work/</loc>
+    <loc>https://besendorf.org/work/</loc>
     <lastmod>2023-10-16T14:17:52+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/work/"
+                href="https://besendorf.org/en/work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/work/"
+                href="https://besendorf.org/work/"
                 />
   </url><url>
-    <loc>/posts/vbrick/</loc>
+    <loc>https://besendorf.org/posts/vbrick/</loc>
     <lastmod>2023-01-22T17:14:32+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://besendorf.org/</loc>
     <lastmod>2023-01-22T17:14:32+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/"
+                href="https://besendorf.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/"
+                href="https://besendorf.org/"
                 />
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://besendorf.org/posts/</loc>
     <lastmod>2023-01-22T17:14:32+01:00</lastmod>
   </url><url>
-    <loc>/posts/interview_jw_ifg_boer/</loc>
+    <loc>https://besendorf.org/posts/interview_jw_ifg_boer/</loc>
     <lastmod>2022-08-09T20:54:07+02:00</lastmod>
   </url><url>
-    <loc>/posts/vp/</loc>
+    <loc>https://besendorf.org/posts/vp/</loc>
     <lastmod>2022-05-16T21:34:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://besendorf.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/categories/"
+                href="https://besendorf.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/categories/"
+                href="https://besendorf.org/categories/"
                 />
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://besendorf.org/search/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://besendorf.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="/en/tags/"
+                href="https://besendorf.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="/tags/"
+                href="https://besendorf.org/tags/"
                 />
   </url>
 </urlset>

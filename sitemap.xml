@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>de/sitemap.xml</loc>
+    <loc>https://besendorf.org/de/sitemap.xml</loc>
     
       <lastmod>2023-01-22T17:14:32+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>en/sitemap.xml</loc>
+    <loc>https://besendorf.org/en/sitemap.xml</loc>
     
   </sitemap>
   
