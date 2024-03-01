@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://besendorf.org/</loc>
+    <lastmod>2023-10-16T14:17:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/"
+                />
+  </url><url>
     <loc>https://besendorf.org/work/</loc>
     <lastmod>2023-10-16T14:17:52+02:00</lastmod>
     <xhtml:link
@@ -26,19 +39,6 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://besendorf.org/posts/vbrick/"
-                />
-  </url><url>
-    <loc>https://besendorf.org/</loc>
-    <lastmod>2023-01-22T17:14:32+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://besendorf.org/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://besendorf.org/"
                 />
   </url><url>
     <loc>https://besendorf.org/posts/</loc>
