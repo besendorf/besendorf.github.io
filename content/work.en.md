@@ -12,7 +12,7 @@ For me it's always a joyful activity when sharing my knowledge with others. For 
 Passwords, 2-Factor Authentication, Phishing, encryption,... whether you need a basic beginner training or a training a special topic, I offer trainings according to your needs. Please reach out via email to discuss the details.
 
 # IT security check-up
-Are you concerned about digital attacks but unsure how good your security measures are? I will do an assessment of your current infrastructure and processes and suggests improvement measures.
+Are you concerned about digital attacks but unsure how good your security measures are? I will do an assessment of your current infrastructure and processes and suggest improvement measures.
 
 # Contact
 work \{ätt\} besendorf.org
