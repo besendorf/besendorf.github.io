@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Categories on Janik Besendorf</title>
-    <link>https://besendorf.org/categories/</link>
-    <description>Recent content in Categories on Janik Besendorf</description>
-    <image>
-      <title>Janik Besendorf</title>
-      <url>https://besendorf.org/images/avatar.jpg</url>
-      <link>https://besendorf.org/images/avatar.jpg</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://besendorf.org/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Categories on Janik Besendorf</title>
+  <link rel="alternate" href="https://besendorf.org/categories/" />
+  <link rel="self" href="https://besendorf.org/categories/index.xml" />
+  <subtitle>Recent content in Categories on Janik Besendorf</subtitle>
+  <id>https://besendorf.org/categories/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>de-DE</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>Janik Besendorf</name>
+    
+  </author>
+  
+
+</feed>
+
+
