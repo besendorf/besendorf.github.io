@@ -2,6 +2,8 @@
 title: "Privacy Policy"
 date: 2024-04-06
 draft: false
+hidemeta: true
+ShowPostNavLinks: false
 ---
 
 

@@ -2,6 +2,8 @@
 title: "Datenschutzerklärung"
 date: 2024-04-06T13:34:38+02:00
 draft: false
+hidemeta: true
+ShowPostNavLinks: false
 ---
 
 
