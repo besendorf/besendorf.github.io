@@ -7,12 +7,33 @@
   <id>https://besendorf.org/</id>
   <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
   <language>de-DE</language>
-  <updated>2023-10-16T14:17:52+02:00</updated>
+  <updated>2024-04-06T13:34:38+02:00</updated>
   <author>
     <name>Janik Besendorf</name>
     
   </author>
   
+      <entry>
+        <title>Datenschutzerklärung</title>
+        <link rel="alternate" href="https://besendorf.org/privacy/" />
+        <id>https://besendorf.org/privacy/</id>
+        <published>2024-04-06T13:34:38+02:00</published>
+        <updated>2024-04-06T13:34:38+02:00</updated>
+        <summary type="html">Personenbezogene Daten (im Folgenden meist nur &amp;ldquo;Daten&amp;rdquo; genannt) werden von mir nur im erforderlichen Umfang und zum Zweck der Bereitstellung einer funktionsfähigen und nutzer*innenfreundlichen Website einschließlich ihrer Inhalte und der dort angebotenen Dienste verarbeitet.
+Nach Art. 4 Nr. 1 der Verordnung (EU) 2016/679, d.h. der Datenschutz-Grundverordnung (nachfolgend &amp;ldquo;DSGVO&amp;rdquo;), bezeichnet &amp;ldquo;Verarbeitung&amp;rdquo; jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede Vorgangsreihe wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung, die Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung personenbezogener Daten.</summary>
+      </entry>
+      <entry>
+        <title>Impressum</title>
+        <link rel="alternate" href="https://besendorf.org/imprint/" />
+        <id>https://besendorf.org/imprint/</id>
+        <published>2024-04-06T00:00:00Z</published>
+        <updated>2024-04-06T00:00:00Z</updated>
+        <summary type="html">Janik Besendorf
+c/o Cultivation Space
+Gottschedstrasse 4
+13357 Berlin
+Email: work {ätt} besendorf.org</summary>
+      </entry>
       <entry>
         <title>Work</title>
         <link rel="alternate" href="https://besendorf.org/work/" />
