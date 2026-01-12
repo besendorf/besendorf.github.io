@@ -1,6 +1,5 @@
 baseURL: "https://besendorf.org"
 title: Janik Besendorf
-paginate: 5
 theme: WonderMod
 
 enableRobotsTXT: true
@@ -14,6 +13,8 @@ minify:
 
 defaultContentLanguage: de
 defaultContentLanguageInSubdir: false
+pagination:
+  pagerSize: 10
 languages:
   de:
     disabled: false
