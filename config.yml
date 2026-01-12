@@ -103,8 +103,7 @@ params:
     - name: LinkedIn
       url: "https://linkedin.com/in/janik-besendorf"
     - name: matrix
-      url: "https://matrix.to/#/@besendorf:systemli.org
-"
+      url: "https://matrix.to/#/@besendorf:systemli.org"
     - name: rss
       url: "https://besendorf.org/index.xml"
 
