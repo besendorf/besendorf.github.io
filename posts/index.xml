@@ -5,7 +5,7 @@
   <link rel="self" href="https://besendorf.org/posts/index.xml" />
   <subtitle>Recent content in Posts on Janik Besendorf</subtitle>
   <id>https://besendorf.org/posts/</id>
-  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.159.0">Hugo</generator>
   <language>de-DE</language>
   <updated>2023-01-22T17:14:32+01:00</updated>
   <author>
@@ -19,8 +19,9 @@
         <id>https://besendorf.org/posts/vbrick/</id>
         <published>2023-01-22T17:14:32+01:00</published>
         <updated>2023-01-22T17:14:32+01:00</updated>
-        <summary type="html">Nachdem mich Ende letzten Jahres ein*e Kommiliton*in auf eine Sicherheitslücke/einen Datenschutzvorfall bei vbrick an der FU Berlin hingewiesen hat, habe ich diesen an die zuständigen Stellen gemeldet. Mittlerweile wurde der Fehler behoben und die Betroffenen benachrichtigt. Hier ein kurzer Einblick, wie das ablief.
-Was ist passiert? Die FU Berlin setzt seit 2021 die Videostreamingplattform &amp;ldquo;vbrick Rev&amp;rdquo; des US-Unternehmens vbrick Systems ein. Auf der Plattform finden sich hauptsächlich Aufzeichnungen von Vorlesungen und andere Lehrvideos.</summary>
+        <summary type="html">&lt;p&gt;Nachdem mich Ende letzten Jahres ein*e Kommiliton*in auf eine Sicherheitslücke/einen Datenschutzvorfall bei vbrick an der FU Berlin hingewiesen hat, habe ich diesen an die zuständigen Stellen gemeldet. Mittlerweile wurde der Fehler behoben und die Betroffenen benachrichtigt. Hier ein kurzer Einblick, wie das ablief.&lt;/p&gt;
+&lt;h1 id=&#34;was-ist-passiert&#34;&gt;Was ist passiert?&lt;/h1&gt;
+&lt;p&gt;Die FU Berlin setzt seit 2021 die Videostreamingplattform &amp;ldquo;vbrick Rev&amp;rdquo; des US-Unternehmens vbrick Systems ein. Auf der Plattform finden sich hauptsächlich Aufzeichnungen von Vorlesungen und andere Lehrvideos. vbrick übernimmt dabei das hosten und stellt die Plattform als SaaS zur Verfügung.&lt;/p&gt;</summary>
       </entry>
       <entry>
         <title>Interview in der jungen Welt zur IFG Anfrage zur Beauftragung einer Personalagentur an der FU Berlin durch Andrea Bör</title>
@@ -28,7 +29,7 @@ Was ist passiert? Die FU Berlin setzt seit 2021 die Videostreamingplattform &amp
         <id>https://besendorf.org/posts/interview_jw_ifg_boer/</id>
         <published>2022-08-09T20:54:07+02:00</published>
         <updated>2022-08-09T20:54:07+02:00</updated>
-        <summary type="html">Am 09.08.2022 (10.08.2022 in der Print Ausgabe) veröffentliche die junge Welt ein Interview mit mir zur Beauftragung einer Personalagentur im Rahmen der Präsident*innenwahlen an der FU durch die Kanzlerin Andrea Bör und den Dokumenten, die ich im Rahmen einer IFG Anfrage erhalten hatte. Zur Transparenz veröffentliche ich hier das unbearbearbeitete und ungekürzte Interview. Es sei besonders darauf hingewiesen, dass ich in meinen Antworten mit &amp;ldquo;*&amp;rdquo; gegendert habe und die junge Welt, dass trotz explizitem Wunsch zu generischem Maskulinum geändert hat.</summary>
+        <summary type="html">&lt;p&gt;Am 09.08.2022 (10.08.2022 in der Print Ausgabe) veröffentliche die junge Welt ein &lt;a href=&#34;https://www.jungewelt.de/artikel/432261.hochschulpolitik-frau-b%C3%B6r-wollte-die-beauftragung-geheimhalten.html&#34;&gt;Interview&lt;/a&gt; mit mir zur Beauftragung einer Personalagentur im Rahmen der Präsident*innenwahlen an der FU durch die Kanzlerin Andrea Bör und den &lt;a href=&#34;https://fragdenstaat.de/dokumente/181722-dokumente-zur-beauftragung-einer-personalagentur-im-rahmen-der-praesidiumswahl-an-der-fu-berlin/&#34;&gt;Dokumenten&lt;/a&gt;, die ich im Rahmen einer IFG Anfrage erhalten hatte. Zur Transparenz veröffentliche ich hier das unbearbearbeitete und ungekürzte Interview. Es sei besonders darauf hingewiesen, dass ich in meinen Antworten mit &amp;ldquo;*&amp;rdquo; gegendert habe und die junge Welt, dass trotz explizitem Wunsch zu generischem Maskulinum geändert hat.&lt;/p&gt;</summary>
       </entry>
       <entry>
         <title>Für einen studentischen Vizepräsidenten!</title>
@@ -36,9 +37,13 @@ Was ist passiert? Die FU Berlin setzt seit 2021 die Videostreamingplattform &amp
         <id>https://besendorf.org/posts/vp/</id>
         <published>2022-05-16T21:34:46+02:00</published>
         <updated>2022-05-16T21:34:46+02:00</updated>
-        <summary type="html">Verfasst und zuerst veröffentlicht von der FSI Geschichte
-Als Unterzeichner*innen finden wir, dass Zeit für eine*n nicht-professorale*n Vizepräsident*in an der FU ist!
-Andere Universitäten sind uns in dieser Frage schon voraus. So gibt es bereits an der ZU Friedrichshafen und perspektivisch auch an der UdK studentische VPs. Nun gilt die FU bundesweit als Ort des studentischen Protests und Beispiel für eine besonders kritische und politische Opposition im AS und darüber hinaus.</summary>
+        <summary type="html">&lt;p&gt;&lt;em&gt;Verfasst und zuerst veröffentlicht von der &lt;a href=&#34;https://fsigeschichtefu.de/2125/fuer-einen-studentischen-vizepraesidenten/&#34;&gt;FSI Geschichte&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Als Unterzeichner*innen finden wir, dass Zeit für eine*n nicht-professorale*n Vizepräsident*in an der FU ist!&lt;/p&gt;
+&lt;p&gt;Andere Universitäten sind uns in dieser Frage schon voraus. So gibt es bereits an der ZU Friedrichshafen und perspektivisch auch an der UdK studentische VPs. Nun gilt die FU bundesweit als Ort des studentischen Protests und Beispiel für eine besonders kritische und politische Opposition im
+AS und darüber hinaus. Es ist unserer Meinung nach an der Zeit, dass die größte Statusgruppe auch
+eine Stimme und Einfluss im Präsidium der FU erhält.
+Gerade die Corona-Semester haben uns gezeigt, wie wichtig die studentische Perspektive ist und wie
+selten sie tatsächlich Gewicht hatte. Bis heute ist das Pandemiemanagement an der FU ein Flickenteppich, beruht auf professoraler Machtausübung und geht nur wenig auf die Bedürfnisse der Studierenden und Mitarbeiter*innen ein, bspw. wenn sie selbst zu einer Risikogruppe gehören oder zu pflegende Angehörige haben.&lt;/p&gt;</summary>
       </entry>
 
 </feed>
