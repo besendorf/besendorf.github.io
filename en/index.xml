@@ -5,7 +5,7 @@
   <link rel="self" href="https://besendorf.org/en/index.xml" />
   <subtitle>Recent content on Janik Besendorf</subtitle>
   <id>https://besendorf.org/en/</id>
-  <generator uri="http://gohugo.io" version="0.159.0">Hugo</generator>
+  <generator uri="http://gohugo.io" version="0.167.0">Hugo</generator>
   <language>en-US</language>
   <updated>2024-04-06T13:34:38+02:00</updated>
   <author>
@@ -76,6 +76,14 @@ AS und darüber hinaus. Es ist unserer Meinung nach an der Zeit, dass die größ
 eine Stimme und Einfluss im Präsidium der FU erhält.
 Gerade die Corona-Semester haben uns gezeigt, wie wichtig die studentische Perspektive ist und wie
 selten sie tatsächlich Gewicht hatte. Bis heute ist das Pandemiemanagement an der FU ein Flickenteppich, beruht auf professoraler Machtausübung und geht nur wenig auf die Bedürfnisse der Studierenden und Mitarbeiter*innen ein, bspw. wenn sie selbst zu einer Risikogruppe gehören oder zu pflegende Angehörige haben.&lt;/p&gt;</summary>
+      </entry>
+      <entry>
+        <title>Journalism</title>
+        <link rel="alternate" href="https://besendorf.org/en/articles/" />
+        <id>https://besendorf.org/en/articles/</id>
+        <published>0001-01-01T00:00:00Z</published>
+        <updated>0001-01-01T00:00:00Z</updated>
+        <summary type="html">My articles in Tagesspiegel and nd (neues deutschland).</summary>
       </entry>
 
 </feed>

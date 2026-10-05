@@ -118,6 +118,18 @@
                 href="https://besendorf.org/en/categories/"
                 />
   </url><url>
+    <loc>https://besendorf.org/en/articles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://besendorf.org/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://besendorf.org/en/articles/"
+                />
+  </url><url>
     <loc>https://besendorf.org/en/search/</loc>
     <xhtml:link
                 rel="alternate"
