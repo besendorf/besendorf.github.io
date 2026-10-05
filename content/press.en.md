@@ -19,6 +19,8 @@ menu:
 
 This page collects articles and interviews in which I contribute, together with coverage mentioning me or my work. Topics range from IT security and digital forensics to privacy, freedom of information and higher education policy.
 
+For articles I have written myself, see [Journalism](/en/articles/).
+
 Entries are grouped by publication year. Quotes and interviews are labelled; “Mention” identifies coverage without a verified direct quote. Some articles require a subscription. Translations and syndicated reports are noted.
 
 Updated: 5 October 2026.

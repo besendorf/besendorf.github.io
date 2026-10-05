@@ -19,6 +19,8 @@ menu:
 
 Hier finden Sie Artikel und Interviews, in denen ich zu Wort komme, sowie Beiträge, die mich oder meine Arbeit erwähnen. Die Themen reichen von IT-Sicherheit und digitaler Forensik über Datenschutz und Informationsfreiheit bis zu Hochschulpolitik.
 
+Meine selbst verfassten Artikel finden Sie unter [Journalismus](/articles/).
+
 Die Beiträge sind nach Erscheinungsjahr geordnet. Zitate und Interviews sind gekennzeichnet; „Erwähnung“ bezeichnet Beiträge ohne verifiziertes direktes Zitat. Einige Artikel sind kostenpflichtig. Übersetzungen und mehrfach veröffentlichte Agenturberichte sind als solche vermerkt.
 
 Stand: 5. Oktober 2026.
