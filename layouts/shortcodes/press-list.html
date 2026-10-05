@@ -1,0 +1,32 @@
+{{- $german := eq .Page.Language.Lang "de" -}}
+{{- $labels := dict "quote" "Quote" "mention" "Mention" "interview" "Interview / profile" "coverage" "Coverage" "release" "Press release" "institutional" "Institutional contribution" -}}
+{{- $notes := dict "translation" "English translation" "dpa" "dpa syndicated report" "KNA" "KNA syndicated report" "BR" "BR investigation; also published by tagesschau.de / BR24" -}}
+{{- if $german -}}
+  {{- $labels = dict "quote" "Zitat" "mention" "Erwähnung" "interview" "Interview / Porträt" "coverage" "Bericht" "release" "Pressemitteilung" "institutional" "Institutioneller Beitrag" -}}
+  {{- $notes = dict "translation" "Englische Übersetzung" "dpa" "dpa-Agenturbericht" "KNA" "KNA-Agenturbericht" "BR" "BR-Recherche; auch bei tagesschau.de / BR24 veröffentlicht" -}}
+{{- end -}}
+{{- $media := where hugo.Data.press "kind" "not in" (slice "release" "institutional") -}}
+{{- $institutions := where hugo.Data.press "kind" "in" (slice "release" "institutional") -}}
+{{- range $section := (slice (dict "title" (cond $german "Medienberichte" "Media coverage") "entries" $media) (dict "title" (cond $german "Pressemitteilungen und institutionelle Beiträge" "Press releases and institutional contributions") "entries" $institutions)) -}}
+  {{- printf "\n\n## %s\n" $section.title -}}
+  {{- $years := slice -}}
+  {{- range $section.entries -}}
+    {{- $years = $years | append .year -}}
+  {{- end -}}
+  {{- range $year := sort (uniq $years) "value" "desc" -}}
+    {{- printf "\n### %d\n\n" $year -}}
+    {{- range where $section.entries "year" $year -}}
+      {{- printf "- **%s:** [%s](%s) · %s" .outlet .title .url (index $labels .kind) -}}
+      {{- with .note -}}
+        {{- printf " · %s" (index $notes .) -}}
+      {{- end -}}
+      {{- if .unavailable -}}
+        {{- printf " · %s" (cond $german "Original derzeit nicht verfügbar" "Original currently unavailable") -}}
+        {{- with .alternative_url -}}
+          {{- printf "; [%s](%s)" (cond $german "Tagesschau-Bericht" "Tagesschau report") . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- printf "\n" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

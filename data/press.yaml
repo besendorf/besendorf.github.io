@@ -1,0 +1,429 @@
+- year: 2026
+  outlet: "Tagesspiegel"
+  title: "Nach Hackerangriff auf Verwaltung: Forensik-Software läuft weiter nicht in allen Berliner Bezirken"
+  url: "https://www.tagesspiegel.de/berlin/nach-hackerangriff-auf-verwaltung-berliner-bezirk-gibt-widerstand-gegen-us-software-auf-16030903.html"
+  kind: "quote"
+
+- year: 2026
+  outlet: "Tagesspiegel"
+  title: "„Meine Geduld ist am Ende“: Berliner Bezirke blockieren nach Hackerangriff US-Software – Senat droht mit Isolation"
+  url: "https://www.tagesspiegel.de/berlin/bezirke/lichtenberg/meine-geduld-ist-am-ende-berliner-bezirk-blockiert-nach-hackerangriff-us-software--jetzt-droht-isolation-16028000.html"
+  kind: "quote"
+
+- year: 2025
+  outlet: "Newsroom.de / KNA"
+  title: "Wie der belarussische Geheimdienst Journalisten ausspioniert"
+  url: "https://www.newsroom.de/news/aktuelle-meldungen/vermischtes-3/wie-der-belarussische-geheimdienst-journalisten-ausspioniert-976591/"
+  kind: "quote"
+  note: "KNA"
+
+- year: 2025
+  outlet: "netzpolitik.org"
+  title: "Bedrohung für die Pressefreiheit: Neue Spionage-Software entdeckt"
+  url: "https://netzpolitik.org/2025/bedrohung-fuer-die-pressefreiheit-neue-spionage-software-entdeckt/"
+  kind: "quote"
+
+- year: 2025
+  outlet: "DIE ZEIT"
+  title: "Belarus: Belarussischer Geheimdienst spionierte Handys aus"
+  url: "https://www.zeit.de/digital/2025-12/belarus-spionagesoftware-handy-app-opposition"
+  kind: "quote"
+
+- year: 2025
+  outlet: "Linux-Magazin"
+  title: "IT-Experte klagte gegen BKA wegen biometrische Gesichtsbilder"
+  url: "https://www.linux-magazin.de/news/it-experte-klagte-gegen-bka-wegen-biometrische-gesichtsbilder/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "Biometric Update"
+  title: "Lawsuit alleges German police misusing facial recognition images for system tests"
+  url: "https://www.biometricupdate.com/202509/lawsuit-alleges-german-police-misusing-facial-recognition-images-for-system-tests/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "heise online"
+  title: "Gesichtsdaten an Forscher weitergegeben? IT-Sicherheitsexperte verklagt das BKA"
+  url: "https://www.heise.de/news/Biometrische-Tests-mit-Polizei-Echtdaten-IT-Sicherheitsexperte-verklagt-das-BKA-10663880.html"
+  kind: "mention"
+
+- year: 2025
+  outlet: "heise online"
+  title: "Biometric tests with police data: IT expert sues Federal Criminal Police Office"
+  url: "https://www.heise.de/en/news/Biometric-tests-with-police-data-IT-expert-sues-Federal-Criminal-Police-Office-10663913.html"
+  kind: "mention"
+  note: "translation"
+
+- year: 2025
+  outlet: "Hardwareluxx"
+  title: "Marktforschung mit Gesichtsbildern: CCC schließt sich Klage gegen das BKA an"
+  url: "https://www.hardwareluxx.de/index.php/news/allgemein/netzpolitik/67122-marktforschung-mit-gesichtsbildern-ccc-schliesst-sich-klage-gegen-das-bka-an.html"
+  kind: "mention"
+
+- year: 2025
+  outlet: "Vabadused.ee"
+  title: "Saksamaa politsei vastu on esitatud süüdistus biomeetriliste andmete väärkasutuses"
+  url: "https://vabadused.ee/saksamaa-politsei-vastu-on-esitatud-suudistus-biomeetriliste-andmete-vaarkasutuses/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "KDB Medienagentur"
+  title: "KDB-Tech-Update – Innovationen, Cybersicherheit und KI-Trends im Überblick"
+  url: "https://kdb-agentur.de/kdb-tech-update/kdb-tech-update-innovationen-cybersicherheit-und-ki-trends-im-ueberblick/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "netzpolitik.org"
+  title: "Biometrie-Test: Datenschutzaktivist verklagt BKA, weil es sein Gesicht missbraucht haben soll"
+  url: "https://netzpolitik.org/2025/biometrie-test-datenschutzaktivist-verklagt-bka-weil-es-sein-gesicht-missbraucht-haben-soll/"
+  kind: "quote"
+
+- year: 2025
+  outlet: "netzpolitik.org"
+  title: "KW 38: Die Woche, in der wir bemerkten, wie wir gehen"
+  url: "https://netzpolitik.org/2025/kw-38-die-woche-in-der-wir-bemerkten-wie-wir-gehen/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "netzpolitik.org"
+  title: "Auf den Punkt: Viele Menschen finden sich im Internet nicht zurecht."
+  url: "https://netzpolitik.org/2025/auf-den-punkt-viele-menschen-finden-sich-im-internet-nicht-zurecht/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "China.Table"
+  title: "Cyber-Reisevorbereitung: „Nehmen Sie nur das Nötigste mit!“"
+  url: "https://table.media/china/analyse/cyber-reisevorbereitung-datenschutz-in-china"
+  kind: "coverage"
+
+- year: 2025
+  outlet: "Jungle World"
+  title: "Tage des Ungehorsams"
+  url: "https://jungle.world/artikel/2025/05/serbien-tage-des-ungehorsams"
+  kind: "quote"
+
+- year: 2025
+  outlet: "netzpolitik.org"
+  title: "mSpy-Leak: So stoppt man Spionage-Apps"
+  url: "https://netzpolitik.org/2025/mspy-leak-so-stoppt-man-spionage-apps/"
+  kind: "quote"
+
+- year: 2024
+  outlet: "heise online"
+  title: "Bildet Netze! Netzpolitik.org feiert 20 Jahre mit einer Konferenz"
+  url: "https://www.heise.de/news/Bildet-Netze-Netzpolitik-org-feiert-20-Jahre-mit-einer-Konferenz-9867275.html"
+  kind: "mention"
+
+- year: 2024
+  outlet: "heise online"
+  title: "Build networks! Netzpolitik.org celebrates 20 years with a conference"
+  url: "https://www.heise.de/en/news/Build-networks-Netzpolitik-org-celebrates-20-years-with-a-conference-9867511.html"
+  kind: "mention"
+  note: "translation"
+
+- year: 2024
+  outlet: "netzpolitik.org"
+  title: "Digitale Selbstverteidigung: Funkdisziplin wahren"
+  url: "https://netzpolitik.org/2024/digitale-selbstverteidigung-funkdisziplin-wahren/"
+  kind: "quote"
+
+- year: 2024
+  outlet: "netzpolitik.org"
+  title: "Digitale Selbstverteidigung: So funktionieren sichere Passwörter"
+  url: "https://netzpolitik.org/2024/digitale-selbstverteidigung-so-funktionieren-sichere-passwoerter/"
+  kind: "quote"
+
+- year: 2024
+  outlet: "netzpolitik.org"
+  title: "Digitale Selbstverteidigung: So geht sichere Kommunikation"
+  url: "https://netzpolitik.org/2024/digitale-selbstverteidigung-so-geht-sichere-kommunikation/"
+  kind: "quote"
+
+- year: 2024
+  outlet: "netzpolitik.org"
+  title: "Digitale Selbstverteidigung: So sichert man Datenspeicher"
+  url: "https://netzpolitik.org/2024/digitale-selbstverteidigung-so-sichert-man-datenspeicher/"
+  kind: "quote"
+
+- year: 2024
+  outlet: "netzpolitik.org"
+  title: "Digitale Selbstverteidigung: So schützt man Daten vor Staaten, Konzernen und Kriminellen"
+  url: "https://netzpolitik.org/2024/digitale-selbstverteidigung-so-schuetzt-man-daten-vor-staaten-konzernen-und-kriminellen/"
+  kind: "mention"
+
+- year: 2024
+  outlet: "turi2"
+  title: "turi2 am Morgen: Volksverpetzer, Michael Meyen, Benjamin Reininger."
+  url: "https://www.turi2.de/heute/turi2-am-morgen-15-05-2024/"
+  kind: "mention"
+
+- year: 2024
+  outlet: "BR24"
+  title: "Fragwürdiger Test: BKA nutzte Millionen Gesichtsbilder"
+  url: "https://www.br.de/nachrichten/deutschland-welt/fragwuerdiger-test-bka-nutzte-millionen-gesichtsbilder,UCCBX4X"
+  kind: "quote"
+  note: "BR"
+  unavailable: true
+  alternative_url: "https://www.tagesschau.de/investigativ/br-recherche/gesichtserkennung-bka-software-test-100.html"
+
+- year: 2024
+  outlet: "tagesschau.de"
+  title: "Gesichtserkennung: BKA nutzte Polizeifotos für Software-Test"
+  url: "https://www.tagesschau.de/investigativ/br-recherche/gesichtserkennung-bka-software-test-100.html"
+  kind: "quote"
+  note: "BR"
+
+- year: 2024
+  outlet: "netzpolitik.org"
+  title: "Gesichtserkennung: BKA nutzte Fotos aus Fahndungsdatenbank für Software-Tests"
+  url: "https://netzpolitik.org/2024/gesichtserkennung-bka-nutzte-fotos-aus-fahndungsdatenbank-fuer-software-tests/"
+  kind: "mention"
+
+- year: 2023
+  outlet: "Tagesspiegel"
+  title: "Asta der FU Berlin kritisiert Abgeordnete: Studierendenvertreter sehen Arbeit durch Anfragen von CDU und AfD blockiert"
+  url: "https://www.tagesspiegel.de/wissen/asta-der-fu-berlin-kritisiert-abgeordnete-studierendenvertreter-sehen-arbeit-durch-anfragen-von-cdu-und-afd-blockiert-9669299.html"
+  kind: "quote"
+
+- year: 2023
+  outlet: "Tagesspiegel"
+  title: "Nicht alle sind zufrieden: So reagieren Berlins Hochschulen auf die Pläne von Schwarz-Rot"
+  url: "https://www.tagesspiegel.de/wissen/nicht-alle-sind-zufrieden-so-reagieren-berlins-hochschulen-auf-die-plane-von-schwarz-rot-9606512.html"
+  kind: "quote"
+
+- year: 2022
+  outlet: "FURIOS"
+  title: "StuPa: Mit geladener Debatte in die Sommerpause"
+  url: "https://furios-campus.de/2022/10/01/stupa-mit-geladener-debatte-in-die-sommerpause/"
+  kind: "mention"
+
+- year: 2022
+  outlet: "taz"
+  title: "Streit um Datenschutz an der FU Berlin: Letzte Frist für Webex"
+  url: "https://taz.de/Streit-um-Datenschutz-an-der-FU-Berlin/!5879096/"
+  kind: "quote"
+
+- year: 2022
+  outlet: "FURIOS"
+  title: "Update: FU will Webex trotz Drohung der Landesdatenschutzbeauftragten weiter nutzen"
+  url: "https://furios-campus.de/2022/09/06/datenschutzbeauftragte-setzt-frist-und-droht-mit-verfahren-fu-soll-webex-abschalten/"
+  kind: "quote"
+
+- year: 2022
+  outlet: "Golem.de"
+  title: "Berliner Datenschutzbeauftragte: Freie Universität soll Webex-Einsatz vollständig beenden"
+  url: "https://www.golem.de/news/berliner-datenschutzbeauftragte-freie-universitaet-soll-webex-einsatz-vollstaendig-beenden-2209-168072.html"
+  kind: "quote"
+
+- year: 2022
+  outlet: "ChannelPartner"
+  title: "Datenschutzdebatte bedroht Cisco Webex"
+  url: "https://www.channelpartner.de/article/3906205/datenschutzdebatte-bedroht-cisco-webex.html"
+  kind: "quote"
+
+- year: 2022
+  outlet: "junge Welt"
+  title: "Hochschulpolitik: „Frau Bör wollte die Beauftragung geheimhalten“"
+  url: "https://www.jungewelt.de/artikel/432261.hochschulpolitik-frau-b%C3%B6r-wollte-die-beauftragung-geheimhalten.html"
+  kind: "interview"
+
+- year: 2022
+  outlet: "FURIOS"
+  title: "Neues Präsidium wieder ohne Studierende"
+  url: "https://furios-campus.de/2022/07/02/neues-praesidium-wieder-ohne-studierende/"
+  kind: "mention"
+
+- year: 2022
+  outlet: "FURIOS"
+  title: "„Ich kann nicht nur Kritik, ich kann auch anpacken“"
+  url: "https://furios-campus.de/2022/06/13/ich-kann-nicht-nur-kritik-ich-kann-auch-anpacken/"
+  kind: "interview"
+
+- year: 2022
+  outlet: "Berliner Zeitung"
+  title: "Student will Vizepräsident der FU Berlin werden: Mehr Demokratie für die Uni"
+  url: "https://www.berliner-zeitung.de/mensch-metropole/student-will-vizepraesident-der-fu-berlin-werden-mehr-demokratie-fuer-die-uni-li.224471"
+  kind: "interview"
+
+- year: 2022
+  outlet: "Tagesspiegel"
+  title: "FU-Studierendenvertreter will Vizepräsident werden: „Ich bin näher an Studierenden, ich kenne die Probleme gut“"
+  url: "https://www.tagesspiegel.de/wissen/ich-bin-naher-an-studierenden-ich-kenne-die-probleme-gut-8019781.html"
+  kind: "interview"
+
+- year: 2022
+  outlet: "FURIOS"
+  title: "Nutzung von Webex rechtswidrig"
+  url: "https://furios-campus.de/2022/01/10/nutzung-von-webex-rechtswidrig/"
+  kind: "quote"
+
+- year: 2022
+  outlet: "taz"
+  title: "Mangelhafter Datenschutz an Uni: Videokonferenz als Datenkrake"
+  url: "https://taz.de/Mangelhafter-Datenschutz-an-Uni/!5823593/"
+  kind: "quote"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Machtkampf an der FU: Zigtausende Euro für heimlich engagierte Headhunter"
+  url: "https://www.tagesspiegel.de/wissen/machtkampf-an-der-fu-spitzt-sich-zu-mittleres-funfstelliges-honorar-fur-heimlich-engagierte-headhunter-326434.html"
+  kind: "quote"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Coronamaßnahmen an Berliner Hochschulen: Senat stoppt Campus-Lockdown an der Freien Universität"
+  url: "https://www.tagesspiegel.de/wissen/coronamassnahmen-an-berliner-hochschulen-senat-stoppt-campus-lockdown-an-der-freien-universitat-323998.html"
+  kind: "quote"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Krise an der Freien Universität: Berliner CDU fordert Rücktritt der FU-Kanzlerin"
+  url: "https://www.tagesspiegel.de/wissen/berliner-cdu-fordert-rucktritt-der-fu-kanzlerin-5990548.html"
+  kind: "quote"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Anhörung zur Partnerschaft der FU mit Peking: Unter dem Einfluss der KP Chinas?"
+  url: "https://www.tagesspiegel.de/wissen/unter-dem-einfluss-der-kp-chinas-5607748.html"
+  kind: "mention"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Abschlussbericht zur Doktorarbeit liegt vor: Entscheidung in Giffeys Plagiats-Affäre wohl noch vor der Berlin-Wahl"
+  url: "https://www.tagesspiegel.de/berlin/entscheidung-in-giffeys-plagiats-affare-wohl-noch-vor-der-berlin-wahl-6598477.html"
+  kind: "quote"
+
+- year: 2021
+  outlet: "UnAuf ONLINE"
+  title: "Diskussion über das neue Berliner Hochschulgesetz"
+  url: "https://www.unauf.de/2021/diskussion-ueber-das-neue-berliner-hochschulgesetz/"
+  kind: "coverage"
+
+- year: 2021
+  outlet: "FURIOS"
+  title: "Neues Hochschulgesetz tief gestapelt"
+  url: "https://furios-campus.de/2021/02/26/neues-hochschulgesetz-tief-gestapelt/"
+  kind: "quote"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Infektionsgefahr an Berliner Hochschulen: Studierende gespalten bei der Frage nach Präsenzprüfungen"
+  url: "https://www.tagesspiegel.de/wissen/studierende-gespalten-bei-der-frage-nach-prasenzprufungen-4227202.html"
+  kind: "quote"
+
+- year: 2021
+  outlet: "Tagesspiegel"
+  title: "Massive Datenpanne an der FU Berlin: Studierende hatten vollen Zugriff auf alle Prüfungsdaten"
+  url: "https://www.tagesspiegel.de/wissen/studierende-hatten-vollen-zugriff-auf-alle-prufungsdaten-4732252.html"
+  kind: "quote"
+
+- year: 2020
+  outlet: "Süddeutsche Zeitung"
+  title: "Franziska Giffey: FU Berlin lässt Doktorarbeit neu prüfen"
+  url: "https://www.sueddeutsche.de/kultur/franziska-giffey-doktorarbeit-freie-universitaet-berlin-fu-berlin-plagiatsvorwurf-giffey-bundesfamilienministerin-1.5123223"
+  kind: "quote"
+
+- year: 2020
+  outlet: "Süddeutsche Zeitung"
+  title: "Franziska Giffey will auf Doktortitel verzichten"
+  url: "https://www.sueddeutsche.de/politik/giffey-promotion-doktor-1.5114804"
+  kind: "quote"
+  note: "dpa"
+
+- year: 2020
+  outlet: "Tagesspiegel"
+  title: "Wendung im Fall Giffey: Waren die Plagiatsprüfer befangen?"
+  url: "https://www.tagesspiegel.de/wissen/waren-die-plagiatsprufer-befangen-4209049.html"
+  kind: "quote"
+
+- year: 2020
+  outlet: "Berliner Zeitung"
+  title: "Forscher: Verzicht auf Doktortitel könnte Giffey nützen"
+  url: "https://www.berliner-zeitung.de/article/forscher-verzicht-auf-doktortitel-koennte-giffey-nuetzen-117507"
+  kind: "quote"
+  note: "dpa"
+
+- year: 2020
+  outlet: "B.Z."
+  title: "FU-Studenten finden neues Verfahren zu Giffeys Doktorarbeit richtig"
+  url: "https://www.bz-berlin.de/archiv-artikel/fu-studenten-finden-neues-verfahren-zu-giffeys-doktorarbeit-richtig"
+  kind: "quote"
+  note: "dpa"
+
+- year: 2020
+  outlet: "Business Insider"
+  title: "Geheimes FU-Gutachten: Giffey muss erneut um ihren Doktortitel bangen"
+  url: "https://www.businessinsider.de/politik/deutschland/an-27-stellen-getaeuscht-gutachten-stellt-doktortitel-von-franziska-giffey-erneut-in-frage/"
+  kind: "quote"
+
+- year: 2020
+  outlet: "FOCUS Online"
+  title: "Franziska Giffey: 27 Plagiate in Doktorarbeit! Studenten veröffentlichen Prüfung"
+  url: "https://www.focus.de/politik/deutschland/tatbestand-der-objektiven-taeuschung-erfuellt-27-plagiate-studenten-veroeffentlichen-das-geheime-gutachten-zu-giffeys-mogel-doktor_id_12511542.html"
+  kind: "quote"
+
+- year: 2020
+  outlet: "taz"
+  title: "Doktorarbeit von Familienministerin Giffey: Objektiv getäuscht"
+  url: "https://taz.de/Doktorarbeit-von-Familienministerin-Giffey/!5716126/"
+  kind: "quote"
+
+- year: 2019
+  outlet: "FURIOS"
+  title: "Akademischer Senat: Die große Zaghaftigkeit"
+  url: "https://furios-campus.de/2019/12/16/akademischer-senat-die-grosse-zaghaftigkeit/"
+  kind: "quote"
+
+- year: 2018
+  outlet: "FURIOS"
+  title: "Stupa: Für immer nur 9 Prozent?"
+  url: "https://furios-campus.de/2018/11/22/stupa-fuer-immer-nur-9-prozent/"
+  kind: "quote"
+
+- year: 2018
+  outlet: "ZEIT Campus"
+  title: "Datenschutz: Die Chipkarte verrät, wer das Studium abbricht"
+  url: "https://www.zeit.de/campus/2018-09/datenschutz-studierendenausweis-hochschulen-arizona-campuscard"
+  kind: "quote"
+
+- year: 2018
+  outlet: "FURIOS"
+  title: "Gender-Streit kommt vor Gericht"
+  url: "https://furios-campus.de/2018/02/12/gender-streit-kommt-vor-gericht/"
+  kind: "mention"
+
+- year: 2025
+  outlet: "Reporter ohne Grenzen"
+  title: "Exklusiv: RSF entdeckt neue Spionagesoftware aus Belarus"
+  url: "https://www.reporter-ohne-grenzen.de/artikel/pressemitteilungen/4162/exklusiv-rsf-entdeckt-neue-spionagesoftware-aus-belarus"
+  kind: "release"
+
+- year: 2025
+  outlet: "Chaos Computer Club"
+  title: "Marktforschung mit Gesichtsbildern: Wir verklagen das BKA"
+  url: "https://www.ccc.de/de/updates/2025/marktforschung-mit-gesichtsbildern-wir-verklagen-das-bka"
+  kind: "release"
+
+- year: 2025
+  outlet: "Reporter ohne Grenzen"
+  title: "Handydaten ausgewertet: RSF unterstützt Klage"
+  url: "https://www.reporter-ohne-grenzen.de/artikel/pressemitteilungen/66/handydaten-ausgewertet-rsf-unterstutzt-klage"
+  kind: "release"
+
+- year: 2025
+  outlet: "Gesellschaft für Freiheitsrechte / Reporter ohne Grenzen"
+  title: "Demo dokumentiert – Handy ausgelesen: GFF und Reporter ohne Grenzen unterstützen Journalist bei Klage gegen polizeiliche Datenauswertung"
+  url: "https://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte/demo-dokumentiert-handy-ausgelesen-gff-und-reporter-ohne-grenzen-unterstuetzen-journalist-bei-klage-gegen-rechtswidrige-polizeiliche-datenauswertung-nach-handy-beschlagnahme"
+  kind: "release"
+
+- year: 2024
+  outlet: "Reporter ohne Grenzen"
+  title: "Journalisten mit Pegasus-Spyware angegriffen"
+  url: "https://www.reporter-ohne-grenzen.de/artikel/pressemitteilungen/833/journalisten-mit-pegasus-spyware-angegriffen"
+  kind: "release"
+
+- year: 2022
+  outlet: "Freie Universität Berlin"
+  title: "15. Juni: Neuwahl der Vizepräsidentinnen bzw. -präsidenten"
+  url: "https://www.fu-berlin.de/campusleben/campus/2022/220517-vp-vorstellung-satzanfaenge/index.html"
+  kind: "institutional"
