@@ -9,11 +9,13 @@ disableShare: true
 menu:
   main:
     identifier: articles
-    name: Articles
+    name: Journalism
     weight: 25
 ---
 
 As a freelance journalist, I write about universities, transparency and freedom of information. This page lists my articles in **Tagesspiegel** and **nd (neues deutschland)**, with links to the original publications. All articles are in German.
+
+For coverage by other publications that quotes or mentions me, see the [press page](/en/press/).
 
 ## Tagesspiegel
 

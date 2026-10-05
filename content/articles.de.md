@@ -1,5 +1,5 @@
 ---
-title: "Journalistische Artikel"
+title: "Journalismus"
 description: "Meine Artikel im Tagesspiegel und in nd (neues deutschland)."
 draft: false
 ShowReadingTime: false
@@ -9,11 +9,13 @@ disableShare: true
 menu:
   main:
     identifier: articles
-    name: Artikel
+    name: Journalismus
     weight: 25
 ---
 
 Ich schreibe als freier Journalist über Hochschulen, Transparenz und Informationsfreiheit. Hier finden Sie meine Artikel im **Tagesspiegel** und in **nd (neues deutschland)**, jeweils mit einem Link zur Originalveröffentlichung.
+
+Beiträge anderer Medien, in denen ich zitiert oder erwähnt werde, finden Sie auf der [Presse-Seite](/press/).
 
 ## Tagesspiegel
 
