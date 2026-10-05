@@ -7,12 +7,20 @@
   <id>https://besendorf.org/en/</id>
   <generator uri="http://gohugo.io" version="0.167.0">Hugo</generator>
   <language>en-US</language>
-  <updated>2024-04-06T13:34:38+02:00</updated>
+  <updated>2026-10-05T00:00:00Z</updated>
   <author>
     <name>Janik Besendorf</name>
     
   </author>
   
+      <entry>
+        <title>Press</title>
+        <link rel="alternate" href="https://besendorf.org/en/press/" />
+        <id>https://besendorf.org/en/press/</id>
+        <published>2026-10-05T00:00:00Z</published>
+        <updated>2026-10-05T00:00:00Z</updated>
+        <summary type="html">Articles, interviews and coverage of my work on IT security, privacy, freedom of information and higher education policy.</summary>
+      </entry>
       <entry>
         <title>Imprint</title>
         <link rel="alternate" href="https://besendorf.org/en/imprint/" />

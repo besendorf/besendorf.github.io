@@ -7,12 +7,20 @@
   <id>https://besendorf.org/</id>
   <generator uri="http://gohugo.io" version="0.167.0">Hugo</generator>
   <language>de-DE</language>
-  <updated>2024-04-06T13:34:38+02:00</updated>
+  <updated>2026-10-05T00:00:00Z</updated>
   <author>
     <name>Janik Besendorf</name>
     
   </author>
   
+      <entry>
+        <title>Presse</title>
+        <link rel="alternate" href="https://besendorf.org/press/" />
+        <id>https://besendorf.org/press/</id>
+        <published>2026-10-05T00:00:00Z</published>
+        <updated>2026-10-05T00:00:00Z</updated>
+        <summary type="html">Artikel, Interviews und Beiträge über meine Arbeit zu IT-Sicherheit, Datenschutz, Informationsfreiheit und Hochschulpolitik.</summary>
+      </entry>
       <entry>
         <title>Datenschutzerklärung</title>
         <link rel="alternate" href="https://besendorf.org/privacy/" />
