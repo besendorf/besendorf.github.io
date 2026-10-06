@@ -1,0 +1,7 @@
+{{- $image := index site.Params.images 0 -}}
+{{- with .Params.images -}}{{- $image = index . 0 -}}{{- end -}}
+{{- with .Params.cover.image -}}
+  {{- $image = . -}}
+  {{- if $.Params.cover.relative -}}{{- $image = path.Join $.RelPermalink . -}}{{- end -}}
+{{- end -}}
+{{- return ($image | absURL) -}}

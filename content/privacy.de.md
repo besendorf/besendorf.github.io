@@ -3,6 +3,9 @@ title: "Datenschutzerklärung"
 date: 2024-04-06T13:34:38+02:00
 draft: false
 hidemeta: true
+searchHidden: true
+lastmod: 2026-10-06
+disableShare: true
 ShowPostNavLinks: false
 ---
 
@@ -13,19 +16,19 @@ Personenbezogene Daten (im Folgenden meist nur "Daten" genannt) werden von mir n
 Nach Art. 4 Nr. 1 der Verordnung (EU) 2016/679, d.h. der Datenschutz-Grundverordnung (nachfolgend "DSGVO"), bezeichnet "Verarbeitung" jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede Vorgangsreihe wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung, die Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung personenbezogener Daten.
 
 
-Die nachfolgende Datenschutzerklärung soll Sie insbesondere über die Art, den Umfang, den Zweck, die Dauer und die Rechtsgrundlage der Verarbeitung solcher Daten in eigener oder fremder Verantwortung informieren. Ich informieree Sie im Folgenden auch über die Komponenten Dritter, die ich zur Optimierung meiner Website und zur Verbesserung der Nutzererfahrung einsetzen, was dazu führen kann, dass diese Dritten ebenfalls Daten verarbeiten, die sie sammeln und kontrollieren.
+Die nachfolgende Datenschutzerklärung soll Sie insbesondere über die Art, den Umfang, den Zweck, die Dauer und die Rechtsgrundlage der Verarbeitung solcher Daten in eigener oder fremder Verantwortung informieren. Ich informiere Sie im Folgenden auch über die Komponenten Dritter, die ich zur Optimierung meiner Website und zur Verbesserung der Nutzererfahrung einsetze, was dazu führen kann, dass diese Dritten ebenfalls Daten verarbeiten, die sie sammeln und kontrollieren.
 
 
 Diese Datenschutzerklärung ist wie folgt aufgebaut:
 
 
-I. Informationen über mich als Verantwortlicher für Ihre Daten
+I. Informationen über mich als Verantwortlichen für Ihre Daten
 
 II. Die Rechte der Nutzer und der betroffenen Personen
 
 III. Informationen über die Datenverarbeitung
 
-## I. Informationen über uns als Verantwortliche für die Verarbeitung Ihrer Daten
+## I. Informationen über mich als Verantwortlichen für die Verarbeitung Ihrer Daten
 
 Der Verantwortliche für diese Website im Sinne des Datenschutzrechts ist:
 
@@ -38,14 +41,14 @@ Gottschedstraße 4\
 
 13357 Berlin\
 
-E-Mail: work {ätt} besendorf.org
+E-Mail: work {ät} besendorf.org
 
 
 
 ## II. Rechte der Nutzer\*innen und betroffenen Personen
 
 
-Im Hinblick auf die nachfolgend näher beschriebene Datenverarbeitung haben die Nutzer*innen und die betroffenen Personen das Recht
+Im Hinblick auf die nachfolgend näher beschriebene Datenverarbeitung haben die Nutzer\*innen und die betroffenen Personen das Recht
 
 
 - eine Bestätigung darüber zu erhalten, ob sie betreffende Daten verarbeitet werden, Auskunft über die verarbeiteten Daten zu erhalten, weitere Informationen über die Art der Datenverarbeitung zu erhalten und Kopien der Daten zu erhalten (vgl. auch Art. 15 DSGVO);
@@ -58,16 +61,16 @@ Im Hinblick auf die nachfolgend näher beschriebene Datenverarbeitung haben die 
 
 - Beschwerden bei der Aufsichtsbehörde einzureichen, wenn sie der Meinung sind, dass die sie betreffenden Daten von dem für die Verarbeitung Verantwortlichen unter Verstoß gegen die Datenschutzbestimmungen verarbeitet werden (vgl. auch Art. 77 DSGVO).
 
-Darüber hinaus ist der für die Verarbeitung Verantwortliche verpflichtet, alle Empfänger, denen er Daten mitteilt, über solche Berichtigungen, Löschungen oder Einschränkungen der Verarbeitung gemäß Art. 16, 17 Abs. 1, 18 DSGVO. Diese Pflicht besteht jedoch nicht, wenn eine solche Benachrichtigung unmöglich ist oder einen unverhältnismäßigen Aufwand erfordert. Dennoch haben die Nutzer ein Recht auf Auskunft über diese Empfänger.
+Darüber hinaus ist der für die Verarbeitung Verantwortliche verpflichtet, alle Empfänger, denen er Daten mitteilt, über solche Berichtigungen, Löschungen oder Einschränkungen der Verarbeitung gemäß Art. 16, 17 Abs. 1 und 18 DSGVO zu informieren. Diese Pflicht besteht jedoch nicht, wenn eine solche Benachrichtigung unmöglich ist oder einen unverhältnismäßigen Aufwand erfordert. Dennoch haben die Nutzer\*innen ein Recht auf Auskunft über diese Empfänger.
 
 
-Desgleichen haben gemäß Art. 21 DSGVO haben Nutzer und betroffene Personen das Recht, der künftigen Verarbeitung ihrer Daten durch den Verantwortlichen gemäß Art. 6 Abs. 1 lit. f) DSGVO. Insbesondere ist ein Widerspruch gegen die Datenverarbeitung zum Zwecke der Direktwerbung zulässig.
+Gemäß Art. 21 DSGVO haben Nutzer\*innen und betroffene Personen das Recht, der künftigen Verarbeitung ihrer Daten auf Grundlage von Art. 6 Abs. 1 lit. f) DSGVO zu widersprechen. Insbesondere ist ein Widerspruch gegen die Datenverarbeitung zum Zwecke der Direktwerbung zulässig.
 
 
 ## III. Information über die Datenverarbeitung
 
 
-Ihre bei der Nutzung unserer Website verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, sofern der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen oder im Folgenden nichts anderes bestimmt ist.
+Ihre bei der Nutzung meiner Website verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, sofern der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen oder im Folgenden nichts anderes bestimmt ist.
 
 
 ### Hosting
@@ -79,7 +82,7 @@ Mein Hoster erhebt in Logfiles folgende von Ihrem Browser übermittelte Daten:
 
 IP-Adresse, die Adresse der zuvor besuchten Website (Referrer Request Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anfrage, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anfrage stammt sowie Informationen über den Browser und das Betriebssystem.
 
-Dies ist notwendig, um meine Website anzuzeigen und um die Stabilität und Sicherheit zu gewährleisten. Dies entspricht meinem/des Hosters berechtigtem Interesse im Sinne von Art. 6 Abs.. 1 Satz 1 lit. f DSGVO.
+Dies ist notwendig, um meine Website anzuzeigen und um die Stabilität und Sicherheit zu gewährleisten. Dies entspricht meinem/des Hosters berechtigtem Interesse im Sinne von Art. 6 Abs. 1 Satz 1 lit. f DSGVO.
 
 
 
@@ -98,10 +101,10 @@ Vereinigte Staaten
 
 
 
-Dies ist der Empfänger Ihrer personenbezogenen Daten. Dies entspricht meinem berechtigten Interesse i.S.d. Art. 6 Abs.. 1 Satz 1 lit. f DSGVO, nicht selbst einen Server in meinen Räumlichkeiten unterhalten zu müssen. Serverstandort ist die USA.
+Dies ist der Empfänger Ihrer personenbezogenen Daten. Dies entspricht meinem berechtigten Interesse i.S.d. Art. 6 Abs. 1 Satz 1 lit. f DSGVO, nicht selbst einen Server in meinen Räumlichkeiten unterhalten zu müssen. GitHub verarbeitet Daten an verschiedenen Standorten, unter anderem in den USA.
 
 
-Weitere Informationen zu den Widerspruchs- und Löschmöglichkeiten bei GitHub finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages
+Weitere Informationen zu den Widerspruchs- und Löschmöglichkeiten bei GitHub finden Sie unter: [GitHubs Datenschutzerklärung](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
 
 
@@ -115,8 +118,12 @@ Die Daten werden gelöscht, sobald der Zweck der Verarbeitung weggefallen ist.
 
 Die Verarbeitung der in diesem Abschnitt genannten Daten ist nicht gesetzlich oder vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
 
-GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen eingeführt. Diese gelten für alle globalen Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
+GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen eingeführt. Diese gelten für alle globalen Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. GitHub nennt dafür unter anderem EU-Standardvertragsklauseln (SCCs) und seine Zertifizierung unter dem EU-US Data Privacy Framework. Weitere Informationen finden Sie unter: [GitHubs Informationen zu internationalen Datenübermittlungen](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#international-data-transfers)
 
+
+### Lokale Einstellungen
+
+Die Website speichert Ihre Wahl des hellen oder dunklen Farbschemas im lokalen Speicher Ihres Browsers. Diese Einstellung wird nicht an mich übermittelt und kann über die Browser-Einstellungen gelöscht werden. Suche und Pressefilter laufen im Browser; Suchbegriffe werden nicht an einen Suchdienst gesendet.
 
 ### Kontakt
 

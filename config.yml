@@ -1,194 +1,196 @@
-baseURL: "https://besendorf.org"
+baseURL: https://besendorf.org/
 title: Janik Besendorf
 theme: WonderMod
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: false
+timeZone: Europe/Berlin
+disableKinds:
+- taxonomy
+- term
+pagination:
+  pagerSize: 10
 minify:
   disableXML: true
   minifyOutput: true
-
-defaultContentLanguage: de
-defaultContentLanguageInSubdir: false
-pagination:
-  pagerSize: 10
 languages:
   de:
-    disabled: false
-    languageCode: de-DE
-    languageDirection: ltr
-    languageName: Deutsch
+    locale: de-DE
+    direction: ltr
+    label: Deutsch
     weight: 1
+    params:
+      description: 'Janik Besendorf: IT-Sicherheit, digitale Forensik und freier Journalismus.
+        Beratung und Trainings für Organisationen, Aktivist*innen und Journalist*innen.'
+      DateFormat: 2. January 2006
+      editPost:
+        Text: Änderung vorschlagen
+      profileMode:
+        subtitle: IT-Sicherheit · Digitale Forensik · Journalismus
+        intro: Ich arbeite im Digital Security Lab bei Reporter ohne Grenzen und als
+          freier IT-Sicherheitsberater und Journalist. Hier finden Sie meine Angebote,
+          Recherchen und Beiträge in den Medien.
+        imageTitle: Porträt von Janik Besendorf
+        buttons:
+        - name: Beratung & Training
+          url: /work/
+        - name: Journalismus
+          url: /articles/
+        - name: Kontakt
+          url: /work/#kontakt
+    menus:
+      main:
+      - identifier: blog
+        name: Blog
+        pageRef: /posts
+        weight: 10
+      - identifier: work
+        name: Beratung & Training
+        pageRef: /work
+        weight: 20
+      - identifier: articles
+        name: Journalismus
+        pageRef: /articles
+        weight: 30
+      - identifier: press
+        name: Presse
+        pageRef: /press
+        weight: 40
+      - identifier: search
+        name: Suche
+        pageRef: /search
+        weight: 50
   en:
-    disabled: false
-    languageCode: en-US
-    languageDirection: ltr
-    languageName: English
+    locale: en-US
+    direction: ltr
+    label: English
     weight: 2
-
-
+    params:
+      description: 'Janik Besendorf: IT security, digital forensics and freelance
+        journalism. Consulting and training for organisations, activists and journalists.'
+      DateFormat: 2 January 2006
+      editPost:
+        Text: Suggest changes
+      profileMode:
+        subtitle: IT security · Digital forensics · Journalism
+        intro: I work at the Digital Security Lab at Reporters Without Borders and
+          as a freelance IT security consultant and journalist. Explore my services,
+          reporting and contributions in the media.
+        imageTitle: Portrait of Janik Besendorf
+        buttons:
+        - name: Consulting & training
+          url: /en/work/
+        - name: Journalism
+          url: /en/articles/
+        - name: Contact
+          url: /en/work/#contact
+    menus:
+      main:
+      - identifier: blog
+        name: Blog
+        pageRef: /posts
+        weight: 10
+      - identifier: work
+        name: Consulting & training
+        pageRef: /work
+        weight: 20
+      - identifier: articles
+        name: Journalism
+        pageRef: /articles
+        weight: 30
+      - identifier: press
+        name: Press
+        pageRef: /press
+        weight: 40
+      - identifier: search
+        name: Search
+        pageRef: /search
+        weight: 50
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Janik Besendorf
-  description: "Wilkommen auf meiner Website"
-  keywords: [Blog, WonderMod]
+  env: production
   author: Janik Besendorf
-  # author: ["Me", "You"] # multiple authors
-  images: ["/images/avatar.jpg"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  mainSections:
+  - posts
+  images:
+  - /images/avatar.jpg
+  defaultTheme: dark
   disableThemeToggle: false
-
   ShowReadingTime: true
+  ShowWordCount: true
   ShowShareButtons: true
-  ShareButtons: ["linkedin", "twitter", "mastodon", "reddit"]
-  ShowPostNavLinks: true
+  ShareButtons:
+  - linkedin
+  - x
+  - reddit
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
   showtoc: false
-  tocopen: false
-
+  comments: false
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
+    favicon: /favicon.ico
+    favicon16x16: /favicon-16x16.png
+    favicon32x32: /favicon-32x32.png
+    apple_touch_icon: /apple-touch-icon.png
+    safari_pinned_tab: /safari-pinned-tab.svg
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-  # profile-mode
+    text: Janik Besendorf
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: true
     title: Janik Besendorf
-    subtitle: "IT Security, Privacy, Hacking"
-    imageUrl: "/images/avatar.jpg"
+    imageUrl: /images/avatar.jpg
     imageWidth: 120
     imageHeight: 120
-    imageTitle: photo of my face
-    buttons:
-      - name: Blog
-        url: posts
-      - name: Work
-        url: work
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/jbesendorf"
-    - name: mastodon
-      url: "https://chaos.social/@besendorf"
-    - name: github
-      url: "https://github.com/besendorf"
-    - name: LinkedIn
-      url: "https://linkedin.com/in/janik-besendorf"
-    - name: matrix
-      url: "https://matrix.to/#/@besendorf:systemli.org"
-    - name: rss
-      url: "https://besendorf.org/index.xml"
-
-  cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: false # hide on single page
-    linkFullImages: true
-
+  - name: twitter
+    url: https://twitter.com/jbesendorf
+  - name: mastodon
+    url: https://chaos.social/@besendorf
+  - name: github
+    url: https://github.com/besendorf
+  - name: LinkedIn
+    url: https://linkedin.com/in/janik-besendorf
+  - name: matrix
+    url: https://matrix.to/#/@besendorf:systemli.org
   editPost:
-    URL: "https://github.com/besendorf/besendorf.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
+    URL: https://github.com/besendorf/besendorf.github.io/edit/main/content
+    appendFilePath: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: blog
-      name: Blog
-      url: /posts/
-      weight: 20
-    - identifier: work
-      name: Work
-      url: /work/
-      weight: 20
-    - identifier: Search
-      name: Search
-      url: /search/
-      weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
+    ignoreLocation: true
+    threshold: 0.3
+    minMatchCharLength: 2
+    keys:
+    - title
+    - summary
+    - content
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
     guessSyntax: true
     lineNos: true
     style: monokai
-# enable search 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
-module:
-  mounts:
-    - source: content/en
-      target: content
-      lang: en
-    - source: content
-      target: content
-      lang: de
-    - source: content
-      target: content
-      lang: en
-      
+  home:
+  - HTML
+  - RSS
+  - JSON
 privacy:
   disqus:
     disable: true
   googleAnalytics:
-    anonymizeIP: true
     disable: true
-    respectDoNotTrack: true
-    useSessionStorage: false
   instagram:
     disable: true
-    simple: false
   x:
-    disable: false
-    enableDNT: true
-    simple: false
+    disable: true
   vimeo:
-    disable: false
-    enableDNT: true
-    simple: false
+    disable: true
   youtube:
-    disable: false
-    privacyEnhanced: true
+    disable: true

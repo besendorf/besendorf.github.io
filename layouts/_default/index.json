@@ -1,0 +1,16 @@
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+  {{- if and (not .Params.searchHidden) (ne .Layout "search") -}}
+    {{- $index = $index | append (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary "language" .Language.Lang) -}}
+  {{- end -}}
+{{- end -}}
+{{- if eq site.Language.Lang "en" -}}
+  {{- range hugo.Sites -}}
+    {{- if eq .Language.Lang "de" -}}
+      {{- range where .RegularPages "Type" "posts" -}}
+        {{- $index = $index | append (dict "title" (printf "%s (German)" .Title) "content" .Plain "permalink" .Permalink "summary" .Summary "language" "de") -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $index | jsonify -}}

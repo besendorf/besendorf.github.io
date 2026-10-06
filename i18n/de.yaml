@@ -1,0 +1,93 @@
+skip_content:
+  other: Zum Inhalt springen
+navigation:
+  other: Hauptnavigation
+menu:
+  other: Menü
+toggle_theme:
+  other: Farbschema wechseln
+powered_by:
+  other: Erstellt mit
+imprint:
+  other: Impressum
+privacy:
+  other: Datenschutzerklärung
+go_top:
+  other: Nach oben
+search_label:
+  other: Suchbegriff
+search_placeholder:
+  other: 'Zum Beispiel: Forensik oder Hochschulen'
+search_results:
+  other: Suchergebnisse
+search_nojs:
+  other: Für die Suche ist JavaScript erforderlich. Alle Inhalte sind auch über die
+    Navigation erreichbar.
+no_results:
+  other: Keine passenden Ergebnisse.
+search_count:
+  other: '{count} Ergebnisse'
+search_loading:
+  other: Suchindex wird geladen …
+search_error:
+  other: Die Suche konnte nicht geladen werden. Bitte versuchen Sie es erneut.
+press_topic:
+  other: Thema
+press_language:
+  other: Sprache des Beitrags
+press_query:
+  other: Titel oder Medium
+press_all:
+  other: Alle
+press_reset:
+  other: Filter zurücksetzen
+press_count:
+  other: '{count} Beiträge'
+press_no_results:
+  other: Keine Beiträge passen zu diesen Filtern.
+press_security:
+  other: IT-Sicherheit
+press_privacy:
+  other: Datenschutz
+press_forensics:
+  other: Digitale Forensik
+press_transparency:
+  other: Transparenz & Informationsfreiheit
+press_universities:
+  other: Hochschulpolitik
+press_language_de:
+  other: Deutsch
+press_language_en:
+  other: Englisch
+press_language_et:
+  other: Estnisch
+press_featured:
+  other: Ausgewählte Beiträge
+press_media:
+  other: Medienberichte
+press_institutions:
+  other: Pressemitteilungen und institutionelle Beiträge
+press_quote:
+  other: Zitat
+press_mention:
+  other: Erwähnung
+press_interview:
+  other: Interview / Porträt
+press_coverage:
+  other: Bericht
+press_release:
+  other: Pressemitteilung
+press_institutional:
+  other: Institutioneller Beitrag
+press_translation:
+  other: Englische Übersetzung
+press_dpa:
+  other: dpa-Agenturbericht
+press_KNA:
+  other: KNA-Agenturbericht
+press_BR:
+  other: BR-Recherche; auch bei tagesschau.de / BR24 veröffentlicht
+press_unavailable:
+  other: Original derzeit nicht verfügbar
+press_alternative:
+  other: Alternative Veröffentlichung

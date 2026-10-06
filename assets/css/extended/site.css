@@ -1,0 +1,38 @@
+:where(a, button, input, select, summary):focus-visible,
+#theme-toggle:focus-visible, .top-link:focus-visible, .toc summary:focus-visible {
+    outline: 3px solid var(--primary);
+    outline-offset: 4px;
+}
+.skip-link { position: absolute; left: 1rem; top: -100px; padding: .5rem 1rem; background: var(--theme); z-index: 20000; }
+.skip-link:focus { top: 1rem; }
+.profile-intro { max-width: 650px; margin: 1.2rem auto; color: var(--secondary); }
+.profile .profile_inner .buttons { flex-wrap: wrap; justify-content: center; }
+.logo a { font-size: 22px; }
+.logo-switches { align-items: center; }
+.mobile-navigation { display: none; }
+.nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: .35em; }
+.press-filters { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0; padding: 1rem; border: 1px solid var(--border); border-radius: 8px; }
+.press-filters label { display: flex; flex-direction: column; gap: .3rem; }
+.press-filters select, .press-filters input { font: inherit; color: var(--primary); background: var(--theme); border: 1px solid var(--secondary); border-radius: 4px; padding: .35rem .5rem; max-width: 100%; }
+.press-filters button { align-self: end; padding: .35rem .7rem; border: 1px solid var(--secondary); border-radius: 4px; }
+.filter-status, .press-meta { color: var(--secondary); font-size: .9em; }
+.press-list li { margin-bottom: 1rem; }
+.press-meta { display: block; }
+.press-filters[hidden], [data-press-entry][hidden], [data-press-year][hidden], [data-press-section][hidden], [data-press-featured][hidden] { display: none; }
+.press-featured { margin-bottom: 1.5rem; }
+@media screen and (max-width: 1100px) {
+    #menu { display: none; }
+    .nav { align-items: center; }
+    .logo { flex: 1; flex-wrap: wrap; }
+    .logo-switches { margin-left: 0; }
+    .mobile-navigation { display: block; position: relative; margin: 0 var(--gap) 0 0; }
+    .mobile-navigation summary { cursor: pointer; padding: 0 .5rem; font-size: 16px; }
+    .mobile-navigation ul { position: absolute; right: 0; min-width: 240px; z-index: 10002; background: var(--theme); border: 1px solid var(--border); border-radius: 6px; list-style: none; padding: .5rem 1rem; box-shadow: 0 4px 16px #0003; }
+    .mobile-navigation a { font-size: 16px; line-height: 2.7; }
+}
+@media screen and (max-width: 450px) {
+    .logo a { font-size: 18px; }
+    .logo-switches a { font-size: 14px; }
+    .press-filters { flex-direction: column; }
+    .press-filters button { align-self: start; }
+}

@@ -22,11 +22,17 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.167.0'
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --panicOnWarning
+
+      - name: Validate generated pages
+        run: python3 scripts/check_site.py public
+
+      - name: Test interactive filtering and search
+        run: node --test tests/*.test.cjs
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4

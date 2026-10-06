@@ -2,6 +2,8 @@
 title: "Für einen studentischen Vizepräsidenten!"
 date: 2022-05-16T21:34:46+02:00
 draft: false
+aliases:
+  - /en/posts/vp/
 ---
 *Verfasst und zuerst veröffentlicht von der [FSI Geschichte](https://fsigeschichtefu.de/2125/fuer-einen-studentischen-vizepraesidenten/)*
 
@@ -29,7 +31,7 @@ Eine studentische Stimme im Präsidium ist unserer Meinung nach entscheidend, um
 über uns hinweg trifft.
 
 Wir fordern, dass diese Entscheidungen in Zukunft in einem Dialog aller Statusgruppen getroffen werden. Die „Basis“ der Studierenden und Beschäftigten muss, unabhängig davon, ob es in Zukunft eine\*n studentischen VP gibt, in Entscheidungen eingebunden werden, die ihren Arbeits- und Studienalltag direkt betreffen.
-<br/><br/>
+
 In diesem Sinne fordern wir alle Mitglieder des erweiterten Akademischen Senates dazu auf, Janik
 Besendorf in seiner Kandidatur als Vizepräsident zu unterstützen. Wir unterstützen zudem die Umsetzung seines Programms:
 
@@ -73,22 +75,22 @@ Impfstoffen)
 - Faire Entlohnung für alle Beschäftigten der Freien Universität (das bedeutet auch, dass der „Corona-Bonus“ an die Beschäftigten aller Statusgruppen ausgezahlt werden muss!)
 
 
-# Unterzeichner\*innen
-## Studierendenschaft
+## Unterzeichner\*innen
+### Studierendenschaft
 - [Studierendenparlament FU Berlin](https://astafu.de/stupa)
 - [AStA FU](https://astafu.de)
-## Fachschaftsinitiativen
+### Fachschaftsinitiativen
 - Ini-Vernetzung der FU (Treffen aller FSIen)
 - [FSI Geschichte](https://fsigeschichtefu.de)
 - [FSI\*OSI](https://userblogs.fu-berlin.de/fsi_osi/)
 - [FSI Biologie](https://www.bcp.fu-berlin.de/studium-lehre/verwaltung/fachschaften/fachschaftsinitiative-biologie/index.html)
 - [FSI Informatik](https://fsi.spline.de)
-## Akademischer Senat
+### Akademischer Senat
 - FSI/Offene Liste
 - Grüne Alternative Liste
 - Jusos/GHG
 - ONCE
-## Hochschulgruppen
+### Hochschulgruppen
 - [la:iz](https://www.instagram.com/p/Cc8k4ersBcp/)
 - [Rotes Café](https://www.facebook.com/rotescafe/)
 

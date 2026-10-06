@@ -6,17 +6,17 @@
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
     <span>
-        - Powered by
+        · {{ i18n "powered_by" }}
         <a href="https://gohugo.io/" rel="noopener noreferrer">Hugo</a> &
         <a href="https://github.com/Wonderfall/hugo-WonderMod/" rel="noopener">WonderMod</a>
-        - <a href="{{ relLangURL "imprint" }}" class="">Imprint</a>
-        - <a href="{{ relLangURL "privacy" }}" class="">Privacy Policy</a>
+        · <a href="{{ relLangURL "imprint/" }}">{{ i18n "imprint" }}</a>
+        · <a href="{{ relLangURL "privacy/" }}">{{ i18n "privacy" }}</a>
     </span>
 </footer>
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+<a href="#top" aria-label="{{ i18n "go_top" }}" title="{{ i18n "go_top" }}" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>

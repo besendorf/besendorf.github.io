@@ -1,0 +1,10 @@
+{{ define "main" }}
+<header class="page-header"><h1>{{ .Title }}</h1><p>{{ .Description }}</p></header>
+<div id="searchbox">
+  <label for="searchInput">{{ i18n "search_label" }}</label>
+  <input id="searchInput" type="search" autocomplete="off" maxlength="100" placeholder="{{ i18n "search_placeholder" }}" aria-controls="searchResults" data-index="{{ site.Home.RelPermalink }}index.json" data-error="{{ i18n "search_error" }}" data-empty="{{ i18n "no_results" }}" data-count="{{ i18n "search_count" }}">
+  <p id="searchStatus" class="filter-status" role="status" aria-live="polite"></p>
+  <ul id="searchResults" aria-label="{{ i18n "search_results" }}"></ul>
+  <noscript>{{ i18n "search_nojs" }}</noscript>
+</div>
+{{ end }}

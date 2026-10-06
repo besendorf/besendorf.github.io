@@ -3,33 +3,36 @@ title: "Privacy Policy"
 date: 2024-04-06
 draft: false
 hidemeta: true
+searchHidden: true
+lastmod: 2026-10-06
+disableShare: true
 ShowPostNavLinks: false
 ---
 
 
-Personal data (usually referred to just as “data” below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.
+Personal data (usually referred to just as “data” below) will only be processed by me to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.
 
 Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the “GDPR”), “processing” refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.
 
-The following privacy policy is intended to inform you in particular about the type, scope, purpose, duration, and legal basis for the processing of such data either under our own control or in conjunction with others. We also inform you below about the third-party components we use to optimize our website and improve the user experience which may result in said third parties also processing data they collect and control.
+The following privacy policy is intended to inform you in particular about the type, scope, purpose, duration, and legal basis for the processing of such data either under my own control or in conjunction with others. I also inform you below about the third-party components I use to optimize my website and improve the user experience which may result in said third parties also processing data they collect and control.
 
-Our privacy policy is structured as follows:
+My privacy policy is structured as follows:
 
-I. Information about us as controllers of your data
+I. Information about me as the controller of your data
 
 II. The rights of users and data subjects
 
 III. Information about the data processing
 
-## I. Information about us as controllers of your data
+## I. Information about me as the controller of your data
 
 The party responsible for this website (the “controller”) for purposes of data protection law is:
 
 Janik Besendorf\
 c/o Cultivation Space\
-Gottschedstrasse 4\
+Gottschedstraße 4\
 13357 Berlin\
-Email: work {ätt} besendorf.org
+Email: work {at} besendorf.org
 
 
 ## II. The rights of users and data subjects
@@ -38,7 +41,7 @@ With regard to the data processing to be described in more detail below, users a
 
 - to confirmation of whether data concerning them is being processed, information about the data being processed, further information about the nature of the data processing, and copies of the data (cf. also Art. 15 GDPR);
 - to correct or complete incorrect or incomplete data (cf. also Art. 16 GDPR);
-- to the immediate deletion of data concerning them (cf. also Art. 17 DSGVO), or, alternatively, if further processing is necessary as stipulated in Art. 17 Para. 3 GDPR, to restrict said processing per Art. 18 GDPR;
+- to the immediate deletion of data concerning them (cf. also Art. 17 GDPR), or, alternatively, if further processing is necessary as stipulated in Art. 17 Para. 3 GDPR, to restrict said processing per Art. 18 GDPR;
 - to receive copies of the data concerning them and/or provided by them and to have the same transmitted to other providers/controllers (cf. also Art. 20 GDPR);
 - to file complaints with the supervisory authority if they believe that data concerning them is being processed by the controller in breach of data protection provisions (see also Art. 77 GDPR).
 
@@ -48,7 +51,7 @@ Likewise, under Art. 21 GDPR, users and data subjects have the right to object t
 
 ## III. Information about the data processing
 
-Your data processed when using our website will be deleted or blocked as soon as the purpose for its storage ceases to apply, provided the deletion of the same is not in breach of any statutory storage obligations or unless otherwise stipulated below.
+Your data processed when using my website will be deleted or blocked as soon as the purpose for its storage ceases to apply, provided the deletion of the same is not in breach of any statutory storage obligations or unless otherwise stipulated below.
 
 ### Hosting
 
@@ -58,7 +61,7 @@ My hoster collects the following data transmitted by your browser in log files:
 IP address, the address of the previously visited website (referrer request header), date and time of the request, time zone difference to Greenwich Mean Time, content of the request, HTTP status code, amount of data transferred, website from which the request comes and information about the browser and operating system.
 
 
-This is necessary to display my website and to ensure stability and security. This corresponds to my/the hosters legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR.
+This is necessary to display my website and to ensure stability and security. This corresponds to my/the host’s legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR.
 
 
 There is no tracking and I do not have direct access to this data.
@@ -73,9 +76,9 @@ San Francisco, CA 94107\
 United States
 
 
-This is the recipient of your personal data. This corresponds to my legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR in not having to maintain a server on my premises myself. Server location is USA.
+This is the recipient of your personal data. This corresponds to my legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f GDPR in not having to maintain a server on my premises myself. GitHub processes data in various locations, including the United States.
 
-Further information on objection and removal options regarding GitHub can be found at: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages
+Further information on objection and removal options regarding GitHub can be found at: [GitHub’s privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 
 
 You have the right to object to the processing. Whether the objection is successful must be determined as part of a balancing of interests.
@@ -87,7 +90,11 @@ The data will be deleted as soon as the purpose of the processing no longer appl
 The processing of the data specified in this section is not required by law or contract. The functionality of the website is not guaranteed without the processing.
 
 
-GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of natural persons in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). Further information can be found at: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1-the-standard-contractual-clauses-processors
+GitHub has implemented compliance measures for international data transfers. These apply to all global activities where GitHub processes personal data of natural persons in the EU. GitHub identifies safeguards including EU Standard Contractual Clauses (SCCs) and its certification under the EU-U.S. Data Privacy Framework. Further information can be found at: [GitHub’s information on international data transfers](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement#international-data-transfers)
+
+### Local preferences
+
+The website stores your choice of light or dark colour scheme in your browser’s local storage. This preference is not transmitted to me and can be deleted through your browser settings. Search and press filters run in your browser; search terms are not sent to a search service.
 
 ### Contact
 

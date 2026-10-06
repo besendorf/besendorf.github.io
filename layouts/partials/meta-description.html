@@ -1,0 +1,1 @@
+{{- return ((.Description | default (.Summary | default site.Params.description)) | plainify | truncate 180) -}}
