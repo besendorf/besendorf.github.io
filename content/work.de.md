@@ -1,19 +1,34 @@
 ---
-title: "Work"
+title: "Beratung & Training"
+description: "IT-Sicherheitsberatung und Trainings für Organisationen, Aktivist*innen und Journalist*innen."
 date: 2023-10-16T14:17:52+02:00
 draft: false
+lastmod: 2026-10-06
+hidemeta: true
+ShowPostNavLinks: false
+disableShare: true
 ---
 
-# Über mich
-Seit knapp 10 Jahren beschäftige ich mich mit IT Security. Im Studium oder in meinem Job im [Digital Security Lab](https://www.reporter-ohne-grenzen.de/hilfe/digital-security-lab) bei Reporter Ohne Grenzen.
-Dabei ist es mir stets eine besondere Freude Wissen an andere zu weiterzugeben zum Beispiel bei [Crypto Partys](https://cryptoparty.in) oder bei IT-Sicherheitsworkshop für Aktivist\*innen und Journalist\*innen.
-Neben meinem Job bei Reporter Ohne Grenzen bin ich als IT Sicherheitsberater tätig.
+## Über mich
 
-# Sicherheitstraining
-Passwörter, Zwei-Faktor Authentifizierung, Phishing, Verschlüsselung,... ob Basis-Wissen oder Spezial-Training für Gruppen und Organisationen. Ich richte mich ganz nach Ihren Bedürfnissen. Schreiben Sie mir eine E-mail und wir besprechen die Details.
+Ich beschäftige mich seit meinem Informatikstudium mit IT-Sicherheit und arbeite im [Digital Security Lab](https://www.reporter-ohne-grenzen.de/hilfe/digital-security-lab) bei Reporter ohne Grenzen. Meine Arbeit verbindet digitale Forensik, Datenschutz und den Schutz von Journalist*innen.
 
-# IT-Sicherheits Checkup
-Sie sind besorgt über digitale Angriffe aber unsicher wie Ihre Organisation im Bereich IT-Sicherheit aufgestellt ist? Ich nehme auf Basis ihrer aktuellen Infrastruktur und Prozesse, sowie von Ihnen definierten Schutzzielen eine Einschätzung der Sicherheit vor und Empfehle gegebenenfalls Verbesserungsmaßnahmen.
+Daneben bin ich als freier IT-Sicherheitsberater, Trainer und [Journalist](/articles/) tätig. Wissen weiterzugeben ist mir besonders wichtig: bei [CryptoPartys](https://cryptoparty.in) ebenso wie in Workshops für Aktivist*innen, Journalist*innen und Organisationen.
 
-# Kontakt
-work \{ätt\} besendorf.org
+## Sicherheitstrainings
+
+Ich biete Trainings vom Einstieg bis zu vertiefenden Workshops an, abgestimmt auf Ihre Gruppe und deren Bedürfnisse. Themen sind unter anderem sichere Passwörter, Zwei-Faktor-Authentifizierung, Phishing, Verschlüsselung und sichere Kommunikation.
+
+Wir besprechen gemeinsam Ihre Ziele, Vorkenntnisse und Rahmenbedingungen und legen darauf aufbauend Inhalte und Umfang fest.
+
+## IT-Sicherheitscheck
+
+Sie sind besorgt über digitale Angriffe und möchten wissen, wie Ihre Organisation aufgestellt ist? Ich bewerte Ihre vorhandene Infrastruktur und Prozesse anhand Ihrer Schutzziele und empfehle konkrete Verbesserungsmaßnahmen.
+
+## Kontakt
+
+Für Anfragen zu Beratung, Trainings oder journalistischen Beiträgen schreiben Sie mir an:
+
+**work {ät} besendorf.org**
+
+Bitte ersetzen Sie „{ät}“ durch das übliche E-Mail-Zeichen. Nennen Sie gern Ihr Thema, Ihre Organisation und den gewünschten Zeitraum.

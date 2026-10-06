@@ -1,0 +1,92 @@
+skip_content:
+  other: Skip to content
+navigation:
+  other: Main navigation
+menu:
+  other: Menu
+toggle_theme:
+  other: Toggle colour theme
+powered_by:
+  other: Built with
+imprint:
+  other: Imprint
+privacy:
+  other: Privacy policy
+go_top:
+  other: Back to top
+search_label:
+  other: Search term
+search_placeholder:
+  other: 'For example: forensics or universities'
+search_results:
+  other: Search results
+search_nojs:
+  other: Search requires JavaScript. All content is also available through the navigation.
+no_results:
+  other: No matching results.
+search_count:
+  other: '{count} results'
+search_loading:
+  other: Loading search index …
+search_error:
+  other: Search could not be loaded. Please try again.
+press_topic:
+  other: Topic
+press_language:
+  other: Publication language
+press_query:
+  other: Title or publication
+press_all:
+  other: All
+press_reset:
+  other: Reset filters
+press_count:
+  other: '{count} entries'
+press_no_results:
+  other: No entries match these filters.
+press_security:
+  other: IT security
+press_privacy:
+  other: Privacy
+press_forensics:
+  other: Digital forensics
+press_transparency:
+  other: Transparency & freedom of information
+press_universities:
+  other: Higher education policy
+press_language_de:
+  other: German
+press_language_en:
+  other: English
+press_language_et:
+  other: Estonian
+press_featured:
+  other: Selected coverage
+press_media:
+  other: Media coverage
+press_institutions:
+  other: Press releases and institutional contributions
+press_quote:
+  other: Quote
+press_mention:
+  other: Mention
+press_interview:
+  other: Interview / profile
+press_coverage:
+  other: Coverage
+press_release:
+  other: Press release
+press_institutional:
+  other: Institutional contribution
+press_translation:
+  other: English translation
+press_dpa:
+  other: dpa syndicated report
+press_KNA:
+  other: KNA syndicated report
+press_BR:
+  other: BR investigation; also published by tagesschau.de / BR24
+press_unavailable:
+  other: Original currently unavailable
+press_alternative:
+  other: Alternative publication

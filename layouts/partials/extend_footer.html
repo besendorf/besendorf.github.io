@@ -1,0 +1,4 @@
+{{ if eq (path.Base (strings.TrimSuffix "/" .RelPermalink)) "press" }}
+{{ $script := resources.Get "js/press-filters.js" | resources.Minify | fingerprint }}
+<script defer src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}

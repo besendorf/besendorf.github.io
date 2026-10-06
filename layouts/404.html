@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="post-content">
+  <h1>{{ if eq .Language.Lang "de" }}Seite nicht gefunden{{ else }}Page not found{{ end }}</h1>
+  <p>{{ if eq .Language.Lang "de" }}Die angeforderte Seite ist nicht verfügbar.{{ else }}The requested page is not available.{{ end }}</p>
+  <p><a href="{{ site.Home.RelPermalink }}">{{ if eq .Language.Lang "de" }}Zur Startseite{{ else }}Go to the homepage{{ end }}</a></p>
+</div>
+{{ end }}

@@ -1,0 +1,22 @@
+{{- $pages := where site.RegularPages "Type" "posts" -}}
+{{- $updated := site.Lastmod -}}
+{{- if $updated.IsZero -}}{{- $updated = time.AsTime "2026-10-06" -}}{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ .Language.Locale }}">
+  <title>{{ site.Title }}</title>
+  <link rel="alternate" href="{{ (.OutputFormats.Get "HTML").Permalink }}" />
+  <link rel="self" href="{{ (.OutputFormats.Get "RSS").Permalink }}" />
+  <id>{{ .Permalink }}</id>
+  <updated>{{ $updated.Format "2006-01-02T15:04:05Z07:00" }}</updated>
+  <author><name>{{ site.Title }}</name></author>
+  {{ range $pages }}
+  <entry>
+    <title>{{ .Title }}</title>
+    <link rel="alternate" href="{{ .Permalink }}" />
+    <id>{{ .Permalink }}</id>
+    <published>{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}</published>
+    <updated>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}</updated>
+    <summary type="html">{{ .Summary | html }}</summary>
+  </entry>
+  {{ end }}
+</feed>

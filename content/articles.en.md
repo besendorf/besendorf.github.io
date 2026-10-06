@@ -2,15 +2,12 @@
 title: "Journalism"
 description: "My articles in Tagesspiegel and nd (neues deutschland)."
 draft: false
+lastmod: 2026-10-06
+hidemeta: true
 ShowReadingTime: false
 ShowWordCount: false
 ShowPostNavLinks: false
 disableShare: true
-menu:
-  main:
-    identifier: articles
-    name: Journalism
-    weight: 25
 ---
 
 As a freelance journalist, I write about universities, transparency and freedom of information. This page lists my articles in **Tagesspiegel** and **nd (neues deutschland)**, with links to the original publications. All articles are in German.
