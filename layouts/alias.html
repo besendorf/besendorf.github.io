@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ .Page.Language.Locale }}">
+<head>
+  <meta charset="utf-8">
+  {{ partial "content-security-policy.html" . }}
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+  <title>{{ .Page.Title }}</title>
+</head>
+<body><p><a href="{{ .Permalink }}">{{ .Page.Title }}</a></p></body>
+</html>
