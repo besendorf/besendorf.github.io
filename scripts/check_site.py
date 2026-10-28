@@ -2,6 +2,7 @@
 """Validate the generated site without network access or extra packages."""
 import json
 import re
+import runpy
 import sys
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
@@ -36,7 +37,15 @@ class Page(HTMLParser):
 
 
 def check(root):
-    errors = []
+    theme_script = Path(__file__).resolve().parents[1] / 'themes/WonderMod/scripts/check_security.py'
+    theme_audit = runpy.run_path(str(theme_script))
+    policy = theme_audit['parse_policy'](
+        "default-src 'none'; script-src 'self'; script-src-attr 'none'; "
+        "style-src 'self'; style-src-attr 'none'; img-src 'self'; font-src 'self'; "
+        "connect-src 'self'; media-src 'self'; frame-src 'none'; object-src 'none'; "
+        "base-uri 'none'; form-action 'none'; upgrade-insecure-requests"
+    )
+    errors = theme_audit['audit_site'](root, 'https://besendorf.org', required_policy=policy)
     pages = {p: Page(p.read_text()) for p in root.rglob('*.html')}
     def require(condition, message):
         if not condition:

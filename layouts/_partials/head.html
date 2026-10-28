@@ -1,4 +1,5 @@
 <meta charset="utf-8">
+{{- partial "content-security-policy.html" . }}
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{- if and (or hugo.IsProduction (eq site.Params.env "production")) (not .Params.robotsNoIndex) (ne .Kind "404") }}
@@ -104,7 +105,7 @@
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 
-{{- template "partials/templates/opengraph.html" . }}
-{{- template "partials/templates/twitter_cards.html" . }}
-{{- template "partials/templates/schema_json.html" . }}
+{{- partial "templates/opengraph.html" . }}
+{{- partial "templates/twitter_cards.html" . }}
+{{- partial "templates/schema_json.html" . }}
 {{- end -}}

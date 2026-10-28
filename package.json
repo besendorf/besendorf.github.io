@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "playwright": "1.64.1"
+  },
+  "name": "besendorf-website-checks",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "test:browser": "node tests/browser-security.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
