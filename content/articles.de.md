@@ -2,7 +2,7 @@
 title: "Journalismus"
 description: "Meine Artikel im Tagesspiegel und in nd (neues deutschland)."
 draft: false
-lastmod: 2026-10-06
+lastmod: 2026-11-25
 hidemeta: true
 ShowReadingTime: false
 ShowWordCount: false
@@ -16,6 +16,8 @@ Beiträge anderer Medien, in denen ich zitiert oder erwähnt werde, finden Sie a
 
 ## Tagesspiegel
 
+- **23.11.2026** · [Nach Cyberangriff auf Humboldt-Uni: Nun läuft eine umstrittene US-Software auf Uni-Rechnern](https://www.tagesspiegel.de/wissen/nach-cyberangriff-auf-humboldt-uni-nun-lauft-eine-umstrittene-us-software-auf-uni-rechnern-16295216.html)\
+  Welche Daten beim Angriff abflossen und warum der Einsatz von CrowdStrike Falcon und die Beteiligung des Personalrats umstritten sind.
 - **02.12.2025** · [Humboldt-Universität Berlin: Ostteil des Hauptgebäudes bleibt noch länger geschlossen als geplant](https://www.tagesspiegel.de/wissen/humboldt-universitat-berlin-ostteil-des-hauptgebaudes-bleibt-noch-langer-geschlossen-als-geplant-15001550.html)  
   Die erneute Verzögerung der Sanierung des HU-Hauptgebäudes und ihre Folgen für den Lehrbetrieb.
 - **17.06.2025** · [Kasse machen auf Kosten von Studierenden: Das Geschäft mit Prüfungsfragen](https://www.tagesspiegel.de/wissen/kasse-machen-auf-kosten-von-studierenden-das-geschaft-mit-prufungsfragen-13845298.html)  
