@@ -82,7 +82,7 @@ Impfstoffen)
 ### Fachschaftsinitiativen
 - Ini-Vernetzung der FU (Treffen aller FSIen)
 - [FSI Geschichte](https://fsigeschichtefu.de)
-- [FSI\*OSI](https://userblogs.fu-berlin.de/fsi_osi/)
+- [FSI\*OSI](https://astafu.de/fsi#fsi-osi-politikwissenschaft)
 - [FSI Biologie](https://www.bcp.fu-berlin.de/studium-lehre/verwaltung/fachschaften/fachschaftsinitiative-biologie/index.html)
 - [FSI Informatik](https://fsi.spline.de)
 ### Akademischer Senat

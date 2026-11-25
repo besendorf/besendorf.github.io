@@ -25,7 +25,12 @@
     <ul class="press-list">
     {{- range where $section.entries "year" $year -}}
       <li data-press-entry data-topics="{{ delimit .topics " " }}" data-language="{{ .language }}">
-        <strong>{{ .outlet }}:</strong> <a href="{{ .url }}" lang="{{ .language }}" hreflang="{{ .language }}">{{ .title }}</a>
+        <strong>{{ .outlet }}:</strong>
+        {{ if .unavailable }}
+          <span lang="{{ .language }}">{{ .title }}</span>
+        {{ else }}
+          <a href="{{ .url }}" lang="{{ .language }}" hreflang="{{ .language }}">{{ .title }}</a>
+        {{ end }}
         <span class="press-meta">
           {{ with .date }}<time datetime="{{ . }}">{{ time.Format site.Params.DateFormat . }}</time> · {{ end }}
           {{ i18n (printf "press_%s" .kind) }} · {{ i18n (printf "press_language_%s" .language) }}

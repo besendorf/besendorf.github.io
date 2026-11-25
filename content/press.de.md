@@ -2,7 +2,7 @@
 title: "Presse"
 description: "Artikel, Interviews und Beiträge über meine Arbeit zu IT-Sicherheit, Datenschutz, Informationsfreiheit und Hochschulpolitik."
 translationKey: press
-lastmod: 2026-10-06
+lastmod: 2026-11-25
 draft: false
 ShowReadingTime: false
 ShowWordCount: false
@@ -18,6 +18,6 @@ Meine selbst verfassten Artikel finden Sie unter [Journalismus](/articles/).
 
 Die Beiträge sind nach Erscheinungsjahr geordnet. Zitate und Interviews sind gekennzeichnet; „Erwähnung“ bezeichnet Beiträge ohne verifiziertes direktes Zitat. Einige Artikel sind kostenpflichtig. Übersetzungen und mehrfach veröffentlichte Agenturberichte sind als solche vermerkt.
 
-Stand: 6. Oktober 2026.
+Stand: 25. November 2026.
 
 {{< press-list >}}
