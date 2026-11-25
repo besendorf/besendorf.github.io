@@ -11,7 +11,7 @@ disableShare: true
 
 ## Über mich
 
-Ich beschäftige mich seit meinem Informatikstudium mit IT-Sicherheit und arbeite im [Digital Security Lab](https://www.reporter-ohne-grenzen.de/hilfe/digital-security-lab) bei Reporter ohne Grenzen. Meine Arbeit verbindet digitale Forensik, Datenschutz und den Schutz von Journalist*innen.
+Ich beschäftige mich seit meinem Informatikstudium mit IT-Sicherheit und arbeite im [Digital Security Lab](https://www.reporter-ohne-grenzen.de/was-wir-tun/unterstutzung-fur-journalistinnen/digital-security-lab) bei Reporter ohne Grenzen. Meine Arbeit verbindet digitale Forensik, Datenschutz und den Schutz von Journalist*innen.
 
 Daneben bin ich als freier IT-Sicherheitsberater, Trainer und [Journalist](/articles/) tätig. Wissen weiterzugeben ist mir besonders wichtig: bei [CryptoPartys](https://cryptoparty.in) ebenso wie in Workshops für Aktivist*innen, Journalist*innen und Organisationen.
 

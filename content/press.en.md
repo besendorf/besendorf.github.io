@@ -2,7 +2,7 @@
 title: "Press"
 description: "Articles, interviews and coverage of my work on IT security, privacy, freedom of information and higher education policy."
 translationKey: press
-lastmod: 2026-10-06
+lastmod: 2026-11-25
 draft: false
 ShowReadingTime: false
 ShowWordCount: false
@@ -18,6 +18,6 @@ For articles I have written myself, see [Journalism](/en/articles/).
 
 Entries are grouped by publication year. Quotes and interviews are labelled; “Mention” identifies coverage without a verified direct quote. Some articles require a subscription. Translations and syndicated reports are noted.
 
-Updated: 6 October 2026.
+Updated: 25 November 2026.
 
 {{< press-list >}}
