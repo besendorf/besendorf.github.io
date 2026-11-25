@@ -17,6 +17,7 @@ Eine Auswahl meiner Vorträge über digitale Forensik, Überwachung und Datensch
 
 - **38C3:** [Mit dem Kärcher durch die Datentröge der Polizeien](https://media.ccc.de/v/38c3-mit-dem-krcher-durch-die-datentrge-der-polizeien). Vortrag mit Bea Hubrig über Polizeidatenbanken und Betroffenenrechte.
 - **Bildet Netze!:** [Aktuelle Staatstrojaner: Wie sie funktionieren und wie wir sie finden](https://pretalx.com/netzpolitik-org-2024/talk/WBDLRS/). Vortrag mit Leonie Ammar über forensische Untersuchungen von Angriffen auf Journalist*innen.
+- **137. Netzpolitischer Abend:** Nutzung und Weitergabe von Daten zur Analyse von Gesichtserkennungssoftware durch das BKA ([Veranstaltungsprogramm mit Aufzeichnung](https://digitalegesellschaft.de/2024/05/137-netzpolitischer-abend/)). Vortrag mit Mathias Marx über die Nutzung von Gesichtsbildern durch das Bundeskriminalamt.
 
 ## 2023
 
