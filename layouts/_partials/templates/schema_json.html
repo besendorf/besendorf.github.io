@@ -7,7 +7,7 @@
   {{- $type := "WebPage" -}}
   {{- if and .IsPage (eq .Type "posts") -}}{{- $type = "BlogPosting" -}}
   {{- else if eq .Layout "search" -}}{{- $type = "SearchResultsPage" -}}
-  {{- else if in (slice "press" "articles") (strings.TrimSuffix "/" .RelPermalink | path.Base) -}}{{- $type = "CollectionPage" -}}
+  {{- else if in (slice "press" "articles" "talks") (strings.TrimSuffix "/" .RelPermalink | path.Base) -}}{{- $type = "CollectionPage" -}}
   {{- else if eq (strings.TrimSuffix "/" .RelPermalink | path.Base) "work" -}}{{- $type = "AboutPage" -}}{{- end -}}
   {{- $schema := dict "@context" "https://schema.org" "@type" $type "name" .Title "url" .Permalink "description" (partial "meta-description.html" .) "inLanguage" .Language.Locale -}}
   {{- if eq $type "BlogPosting" -}}

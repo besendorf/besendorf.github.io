@@ -51,6 +51,10 @@ languages:
         name: Beratung & Training
         pageRef: /work
         weight: 20
+      - identifier: talks
+        name: Vorträge
+        pageRef: /talks
+        weight: 25
       - identifier: articles
         name: Journalismus
         pageRef: /articles
@@ -97,6 +101,10 @@ languages:
         name: Consulting & training
         pageRef: /work
         weight: 20
+      - identifier: talks
+        name: Talks
+        pageRef: /talks
+        weight: 25
       - identifier: articles
         name: Journalism
         pageRef: /articles
